@@ -21,7 +21,7 @@ This dataset is a set of files containing the marshalled versions of all card ca
 ## Imperial Assault Unique Naming (IAUN) format
 We defined an unique naming format that can be universally used to refer to Imperial Assault cards. Unique naming format is defined as follows:
 
-_affiliation_ _name_ [_description_|Elite|Regular] [FFG|IACP]
+_affiliation_ _name_, [_description_|Elite|Regular] [FFG|IACP]
 
 _Affiliation_ can be one of:
 
