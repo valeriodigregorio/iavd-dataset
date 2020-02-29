@@ -1,0 +1,1394 @@
+[
+    {
+        "affiliation": "Imperial",
+        "description": "Destructive Assassin",
+        "elite": true,
+        "iavc": "iacp/11667",
+        "name": "BT-1",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Specialized in Pain",
+        "elite": true,
+        "iavc": "iacp/11669",
+        "name": "0-0-0",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/11677",
+        "name": "Jawa Scavenger",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/11679",
+        "name": "Jawa Scavenger",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "\"Chopper\"",
+        "elite": true,
+        "iavc": "iacp/11681",
+        "name": "C1-10P",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Spectre-2",
+        "elite": true,
+        "iavc": "iacp/11683",
+        "name": "Hera Syndulla",
+        "unique": true
+    },
+    {
+        "affiliation": "Neutral",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/11685",
+        "name": "Scavenged Weaponry",
+        "unique": true
+    },
+    {
+        "affiliation": "Neutral",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/11686",
+        "name": "Trusted Ally",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/11687",
+        "name": "Focused on the Kill",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/11744",
+        "name": "Driven by Hatred",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/12489",
+        "name": "Riot Trooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/12492",
+        "name": "Riot Trooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/12495",
+        "name": "Sentry Droid",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/12498",
+        "name": "Sentry Droid",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/12501",
+        "name": "AT-DP",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Sith Master",
+        "elite": true,
+        "iavc": "iacp/12503",
+        "name": "Emperor Palpatine",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/12505",
+        "name": "Clawdite Shapeshifter",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Seeker of Vengeance",
+        "elite": true,
+        "iavc": "iacp/12509",
+        "name": "Maul",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/12511",
+        "name": "Drokkatta",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/12513",
+        "name": "Jarrod Kelvin",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/12515",
+        "name": "Ko-Tun Feralo",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Rebel Instigator",
+        "elite": true,
+        "iavc": "iacp/12517",
+        "name": "Ahsoka Tano",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/12519",
+        "name": "Rogue Smuggler",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/12521",
+        "name": "Wookiee Avenger",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/12757",
+        "name": "Clawdite Shapeshifter",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/14284",
+        "name": "Death Trooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/14287",
+        "name": "Death Trooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/14294",
+        "name": "Loth-cat",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/14297",
+        "name": "Loth-cat",
+        "unique": false
+    },
+    {
+        "affiliation": "Neutral",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/14301",
+        "name": "Doubt",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/14302",
+        "name": "CT-1701",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Spectre-6",
+        "elite": true,
+        "iavc": "iacp/14304",
+        "name": "Ezra Bridger",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Spectre-1",
+        "elite": true,
+        "iavc": "iacp/14306",
+        "name": "Kanan Jarrus",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/14404",
+        "name": "Tress Hacnua",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Spectre-4",
+        "elite": false,
+        "iavc": "iacp/14406",
+        "name": "Zeb Orrelios",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Spectre-5",
+        "elite": true,
+        "iavc": "iacp/14440",
+        "name": "Sabine Wren",
+        "unique": true
+    },
+    {
+        "affiliation": "Neutral",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/14446",
+        "name": "Extra Armor",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Grand Admiral",
+        "elite": true,
+        "iavc": "iacp/14456",
+        "name": "Thrawn",
+        "unique": true
+    },
+    {
+        "affiliation": "Neutral",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/14462",
+        "name": "Heavy Fire",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Friend For Hire",
+        "elite": true,
+        "iavc": "iacp/14533",
+        "name": "Hondo Ohnaka",
+        "unique": true
+    },
+    {
+        "affiliation": "Neutral",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/14687",
+        "name": "Lie in Ambush",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/14700",
+        "name": "Spectre Cell",
+        "unique": true
+    },
+    {
+        "affiliation": "Neutral",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/15151",
+        "name": "Suppressive Fire",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/15152",
+        "name": "Imperial Retrofitting",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/15246",
+        "name": "Scout Trooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/15252",
+        "name": "Tusken Raider",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Ambitious Droid",
+        "elite": true,
+        "iavc": "iacp/15261",
+        "name": "4-LOM",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Gand Findsman",
+        "elite": true,
+        "iavc": "iacp/15263",
+        "name": "Zuckuss",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Jedi Master",
+        "elite": true,
+        "iavc": "iacp/15265",
+        "name": "Yoda",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Loyal Wookiee",
+        "elite": true,
+        "iavc": "iacp/20",
+        "name": "Chewbacca",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Scoundrel",
+        "elite": true,
+        "iavc": "iacp/21",
+        "name": "Han Solo",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Hero of the Rebellion",
+        "elite": true,
+        "iavc": "iacp/22",
+        "name": "Luke Skywalker",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Spec-Ops Commando",
+        "elite": false,
+        "iavc": "iacp/23",
+        "name": "Fenn Signis",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Unstoppable Warrior",
+        "elite": false,
+        "iavc": "iacp/24",
+        "name": "Gaarkhan",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Exile Redeemed",
+        "elite": false,
+        "iavc": "iacp/25",
+        "name": "Diala Passil",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/26",
+        "name": "Rebel Trooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Gunslinging Rogue",
+        "elite": false,
+        "iavc": "iacp/27",
+        "name": "Jyn Odan",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/28",
+        "name": "Rebel Saboteur",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/29",
+        "name": "Gideon Argus",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/30",
+        "name": "Mak Eshka'rey",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/31",
+        "name": "Rebel High Command",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Lord of the Sith",
+        "elite": true,
+        "iavc": "iacp/34",
+        "name": "Darth Vader",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Field Commander",
+        "elite": true,
+        "iavc": "iacp/35",
+        "name": "General Weiss",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/36",
+        "name": "Royal Guard Champion",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/37",
+        "name": "AT-ST",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/38",
+        "name": "Royal Guard",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/39",
+        "name": "E-Web Engineer",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/40",
+        "name": "Stormtrooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/41",
+        "name": "Imperial Officer",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/42",
+        "name": "Probe Droid",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/426",
+        "name": "Rebel Trooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/428",
+        "name": "Rebel Saboteur",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/43",
+        "name": "Probe Droid",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/44",
+        "name": "Imperial Officer",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Hired Guns",
+        "elite": false,
+        "iavc": "iacp/45",
+        "name": "Temporary Alliance",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/46",
+        "name": "Stormtrooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/48",
+        "name": "Royal Guard",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Assassin Droid",
+        "elite": true,
+        "iavc": "iacp/49",
+        "name": "IG-88",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/50",
+        "name": "Trandoshan Hunter",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/51",
+        "name": "Trandoshan Hunter",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/52",
+        "name": "Nexu",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/53",
+        "name": "Nexu",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/54",
+        "name": "First Strike",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Fueled by Vengeance",
+        "elite": false,
+        "iavc": "iacp/547",
+        "name": "Biv Bodhrik",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Human-Cyborg Relations",
+        "elite": true,
+        "iavc": "iacp/549",
+        "name": "C-3PO",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/55",
+        "name": "Devious Scheme",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Loyal Astromech",
+        "elite": true,
+        "iavc": "iacp/551",
+        "name": "R2-D2",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Underworld Innovator",
+        "elite": false,
+        "iavc": "iacp/553",
+        "name": "Saska Teft",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Infamous Bounty Hunter",
+        "elite": true,
+        "iavc": "iacp/557",
+        "name": "Boba Fett",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "A Common Enemy",
+        "elite": false,
+        "iavc": "iacp/56",
+        "name": "Temporary Alliance",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/561",
+        "name": "Tusken Raider",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/565",
+        "name": "Explosive Armaments",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/566",
+        "name": "Heavy Stormtrooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/568",
+        "name": "Heavy Stormtrooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Trooper Commander",
+        "elite": true,
+        "iavc": "iacp/570",
+        "name": "Kayn Somos",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/572",
+        "name": "Rule by Fear",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/652",
+        "name": "Vader's Finest",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/653",
+        "name": "Hired Gun",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/655",
+        "name": "Hired Gun",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/657",
+        "name": "Last Resort",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/659",
+        "name": "Fury of Kashyyyk",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/661",
+        "name": "Wookiee Warrior",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/663",
+        "name": "Wookiee Warrior",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Vicious Tactician",
+        "elite": true,
+        "iavc": "iacp/8223",
+        "name": "General Sorin",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8225",
+        "name": "Snowtrooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8227",
+        "name": "Snowtrooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8229",
+        "name": "SC2-M Repulsor Tank",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8231",
+        "name": "The General's Ranks",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Ruthless Killer",
+        "elite": true,
+        "iavc": "iacp/8232",
+        "name": "Dengar",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8234",
+        "name": "HK Assassin Droid",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8236",
+        "name": "HK Assassin Droid",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8238",
+        "name": "Wampa",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8240",
+        "name": "Wampa",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8242",
+        "name": "Combat Suit",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8243",
+        "name": "On a Diplomatic Mission",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8244",
+        "name": "Echo Base Trooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8246",
+        "name": "Echo Base Trooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Rebel Commander",
+        "elite": true,
+        "iavc": "iacp/8248",
+        "name": "Leia Organa",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8250",
+        "name": "Loku Kanoloa",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8252",
+        "name": "MHD-19",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8254",
+        "name": "Verena Talos",
+        "unique": true
+    },
+    {
+        "affiliation": "Neutral",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8278",
+        "name": "Targeting Computer",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8470",
+        "name": "Punishing Strike",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8472",
+        "name": "Bantha Rider",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8476",
+        "name": "Alliance Smuggler",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8478",
+        "name": "Alliance Smuggler",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8482",
+        "name": "Smuggler's Run",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8483",
+        "name": "Beast Tamer",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "ISB Interrogator",
+        "elite": true,
+        "iavc": "iacp/8543",
+        "name": "Agent Blaise",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8545",
+        "name": "Cross-Training",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8547",
+        "name": "ISB Infiltrator",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8549",
+        "name": "ISB Infiltrator",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8551",
+        "name": "Zillo Technique",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Born Hunter",
+        "elite": true,
+        "iavc": "iacp/8553",
+        "name": "Bossk",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8555",
+        "name": "Headhunter",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8557",
+        "name": "Ugnaught Tinkerer",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8559",
+        "name": "Ugnaught Tinkerer",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8561",
+        "name": "Under Duress",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8563",
+        "name": "Wing Guard",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8565",
+        "name": "Wing Guard",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8567",
+        "name": "Davith Elso",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8569",
+        "name": "Heroic Effort",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Charming Gambler",
+        "elite": true,
+        "iavc": "iacp/8571",
+        "name": "Lando Calrissian",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8573",
+        "name": "Murne Rin",
+        "unique": true
+    },
+    {
+        "affiliation": "Neutral",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8575",
+        "name": "Unshakable",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Sith Loyalist",
+        "elite": true,
+        "iavc": "iacp/8742",
+        "name": "The Grand Inquisitor",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8744",
+        "name": "Advanced Com Systems",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Ambitious Mercenary",
+        "elite": true,
+        "iavc": "iacp/8754",
+        "name": "Greedo",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8756",
+        "name": "Prey on the Weak",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Jedi Knight",
+        "elite": true,
+        "iavc": "iacp/8757",
+        "name": "Obi-Wan Kenobi",
+        "unique": true
+    },
+    {
+        "affiliation": "Neutral",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8760",
+        "name": "Channel the Force",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Wasteland Enforcer",
+        "elite": true,
+        "iavc": "iacp/8910",
+        "name": "Captain Terro",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8912",
+        "name": "Dewback Rider",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8914",
+        "name": "Jet Trooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8916",
+        "name": "Jet Trooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8936",
+        "name": "Gamorrean Guard",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8938",
+        "name": "Gamorrean Guard",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Vile Gangster",
+        "elite": true,
+        "iavc": "iacp/8940",
+        "name": "Jabba the Hutt",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8942",
+        "name": "Onar Koma",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8944",
+        "name": "Rancor",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8946",
+        "name": "Shyla Varad",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8948",
+        "name": "Vinto Hreeda",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8950",
+        "name": "Weequay Pirate",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8952",
+        "name": "Weequay Pirate",
+        "unique": false
+    },
+    {
+        "affiliation": "Neutral",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8954",
+        "name": "Feeding Frenzy",
+        "unique": false
+    },
+    {
+        "affiliation": "Neutral",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8955",
+        "name": "Motivation",
+        "unique": true
+    },
+    {
+        "affiliation": "Neutral",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8956",
+        "name": "Survivalist",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8957",
+        "name": "Black Market",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8958",
+        "name": "Indentured Jester",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Jedi Knight",
+        "elite": true,
+        "iavc": "iacp/8959",
+        "name": "Luke Skywalker",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/8961",
+        "name": "Alliance Ranger",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/8963",
+        "name": "Alliance Ranger",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavc": "iacp/94",
+        "name": "Balance of the Force",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavc": "iacp/95",
+        "name": "E-Web Engineer",
+        "unique": false
+    }
+]
