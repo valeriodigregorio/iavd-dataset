@@ -1,0 +1,1098 @@
+[
+    {
+        "iavc": "iacp/10011",
+        "name": "Inspiring Speech"
+    },
+    {
+        "iavc": "iacp/10021",
+        "name": "New Orders"
+    },
+    {
+        "iavc": "iacp/10030",
+        "name": "Planning"
+    },
+    {
+        "iavc": "iacp/10039",
+        "name": "Regroup"
+    },
+    {
+        "iavc": "iacp/10042",
+        "name": "Reposition"
+    },
+    {
+        "iavc": "iacp/10077",
+        "name": "Black Market Prices"
+    },
+    {
+        "iavc": "iacp/10100",
+        "name": "Dirty Trick"
+    },
+    {
+        "iavc": "iacp/10101",
+        "name": "Disable"
+    },
+    {
+        "iavc": "iacp/10131",
+        "name": "In the Shadows"
+    },
+    {
+        "iavc": "iacp/10144",
+        "name": "On the Lam"
+    },
+    {
+        "iavc": "iacp/10150",
+        "name": "Pickpocket"
+    },
+    {
+        "iavc": "iacp/10165",
+        "name": "Run for Cover"
+    },
+    {
+        "iavc": "iacp/10172",
+        "name": "Slippery Target"
+    },
+    {
+        "iavc": "iacp/10173",
+        "name": "Smuggled Supplies"
+    },
+    {
+        "iavc": "iacp/10174",
+        "name": "Smugglers Tricks"
+    },
+    {
+        "iavc": "iacp/10178",
+        "name": "Stimulants"
+    },
+    {
+        "iavc": "iacp/10186",
+        "name": "Tools for the Job"
+    },
+    {
+        "iavc": "iacp/10188",
+        "name": "Toxic Dart"
+    },
+    {
+        "iavc": "iacp/10197",
+        "name": "Behind Enemy Lines"
+    },
+    {
+        "iavc": "iacp/10208",
+        "name": "Collect Intel"
+    },
+    {
+        "iavc": "iacp/10209",
+        "name": "Comm Disruption"
+    },
+    {
+        "iavc": "iacp/10215",
+        "name": "Cut Lines"
+    },
+    {
+        "iavc": "iacp/10217",
+        "name": "Data Theft"
+    },
+    {
+        "iavc": "iacp/10246",
+        "name": "Hide in Plain Sight"
+    },
+    {
+        "iavc": "iacp/10254",
+        "name": "Intelligence Leak"
+    },
+    {
+        "iavc": "iacp/10293",
+        "name": "Slippery Target"
+    },
+    {
+        "iavc": "iacp/10297",
+        "name": "Stall for Time"
+    },
+    {
+        "iavc": "iacp/10300",
+        "name": "Strategic Shift"
+    },
+    {
+        "iavc": "iacp/10332",
+        "name": "Covering Fire"
+    },
+    {
+        "iavc": "iacp/10360",
+        "name": "Grenadier"
+    },
+    {
+        "iavc": "iacp/10397",
+        "name": "Provoke"
+    },
+    {
+        "iavc": "iacp/10400",
+        "name": "Rank and File"
+    },
+    {
+        "iavc": "iacp/10403",
+        "name": "Reinforcements"
+    },
+    {
+        "iavc": "iacp/10479",
+        "name": "Fuel Upgrade"
+    },
+    {
+        "iavc": "iacp/10486",
+        "name": "Heavy Armor"
+    },
+    {
+        "iavc": "iacp/10510",
+        "name": "Overrun"
+    },
+    {
+        "iavc": "iacp/10525",
+        "name": "Repair"
+    },
+    {
+        "iavc": "iacp/10556",
+        "name": "Adrenaline"
+    },
+    {
+        "iavc": "iacp/10676",
+        "name": "Wookiee Rage"
+    },
+    {
+        "iavc": "iacp/10677",
+        "name": "Roar"
+    },
+    {
+        "iavc": "iacp/10678",
+        "name": "Stall for Time"
+    },
+    {
+        "iavc": "iacp/10679",
+        "name": "Roar"
+    },
+    {
+        "iavc": "iacp/10680",
+        "name": "Deadly Precision"
+    },
+    {
+        "iavc": "iacp/10681",
+        "name": "Force Lightning"
+    },
+    {
+        "iavc": "iacp/10682",
+        "name": "Lure of the Dark Side"
+    },
+    {
+        "iavc": "iacp/10683",
+        "name": "Opportunistic"
+    },
+    {
+        "iavc": "iacp/10684",
+        "name": "Shoot the Messenger"
+    },
+    {
+        "iavc": "iacp/10685",
+        "name": "A Powerful Influence"
+    },
+    {
+        "iavc": "iacp/10686",
+        "name": "Heart of Freedom"
+    },
+    {
+        "iavc": "iacp/10687",
+        "name": "Knowledge and Defense"
+    },
+    {
+        "iavc": "iacp/10688",
+        "name": "Meditation"
+    },
+    {
+        "iavc": "iacp/10689",
+        "name": "Call the Vanguard"
+    },
+    {
+        "iavc": "iacp/10692",
+        "name": "Crush"
+    },
+    {
+        "iavc": "iacp/10693",
+        "name": "Crush"
+    },
+    {
+        "iavc": "iacp/10694",
+        "name": "Jundland Terror"
+    },
+    {
+        "iavc": "iacp/10695",
+        "name": "Overcharged Weapons"
+    },
+    {
+        "iavc": "iacp/11714",
+        "name": "Ballistics Matrix"
+    },
+    {
+        "iavc": "iacp/11715",
+        "name": "Eerie Visage"
+    },
+    {
+        "iavc": "iacp/11716",
+        "name": "Evacuate"
+    },
+    {
+        "iavc": "iacp/11717",
+        "name": "On a Mission"
+    },
+    {
+        "iavc": "iacp/11718",
+        "name": "Advance Warning"
+    },
+    {
+        "iavc": "iacp/11719",
+        "name": "Brace for Impact"
+    },
+    {
+        "iavc": "iacp/11720",
+        "name": "Navigation Upgrade"
+    },
+    {
+        "iavc": "iacp/11721",
+        "name": "Shared Experience"
+    },
+    {
+        "iavc": "iacp/11722",
+        "name": "Shared Experience"
+    },
+    {
+        "iavc": "iacp/11723",
+        "name": "Take Position"
+    },
+    {
+        "iavc": "iacp/11724",
+        "name": "Take Position"
+    },
+    {
+        "iavc": "iacp/11725",
+        "name": "Targeting Network"
+    },
+    {
+        "iavc": "iacp/11727",
+        "name": "Targeting Network"
+    },
+    {
+        "iavc": "iacp/11728",
+        "name": "Terminal Protocol"
+    },
+    {
+        "iavc": "iacp/11729",
+        "name": "Triangulate"
+    },
+    {
+        "iavc": "iacp/11730",
+        "name": "Utinni!"
+    },
+    {
+        "iavc": "iacp/11741",
+        "name": "Wild Fury"
+    },
+    {
+        "iavc": "iacp/11742",
+        "name": "Wild Fury"
+    },
+    {
+        "iavc": "iacp/12539",
+        "name": "Field Supply"
+    },
+    {
+        "iavc": "iacp/12540",
+        "name": "Arcing Shot"
+    },
+    {
+        "iavc": "iacp/12541",
+        "name": "Droid Mastery"
+    },
+    {
+        "iavc": "iacp/12542",
+        "name": "Right Back At Ya!"
+    },
+    {
+        "iavc": "iacp/12543",
+        "name": "Force Push"
+    },
+    {
+        "iavc": "iacp/12544",
+        "name": "Force Jump"
+    },
+    {
+        "iavc": "iacp/12545",
+        "name": "Balancing Force"
+    },
+    {
+        "iavc": "iacp/12546",
+        "name": "Fool Me Once"
+    },
+    {
+        "iavc": "iacp/12548",
+        "name": "Officer's Training"
+    },
+    {
+        "iavc": "iacp/12549",
+        "name": "Officer's Training"
+    },
+    {
+        "iavc": "iacp/12550",
+        "name": "Prepared for Battle"
+    },
+    {
+        "iavc": "iacp/12551",
+        "name": "Prepared for Battle"
+    },
+    {
+        "iavc": "iacp/12552",
+        "name": "Dark Energy"
+    },
+    {
+        "iavc": "iacp/12553",
+        "name": "Corrupting Force"
+    },
+    {
+        "iavc": "iacp/12554",
+        "name": "Wreak Vengeance"
+    },
+    {
+        "iavc": "iacp/12555",
+        "name": "Looking for a Fight"
+    },
+    {
+        "iavc": "iacp/12556",
+        "name": "Face to Face"
+    },
+    {
+        "iavc": "iacp/12557",
+        "name": "Deathblow"
+    },
+    {
+        "iavc": "iacp/12558",
+        "name": "Chaotic Force"
+    },
+    {
+        "iavc": "iacp/12559",
+        "name": "Ready Weapons"
+    },
+    {
+        "iavc": "iacp/12560",
+        "name": "Ready Weapons"
+    },
+    {
+        "iavc": "iacp/12561",
+        "name": "Concentrated Fire"
+    },
+    {
+        "iavc": "iacp/12562",
+        "name": "Armed Escort"
+    },
+    {
+        "iavc": "iacp/12563",
+        "name": "Armed Escort"
+    },
+    {
+        "iavc": "iacp/12564",
+        "name": "Forward March"
+    },
+    {
+        "iavc": "iacp/12565",
+        "name": "Heavy Ordnance"
+    },
+    {
+        "iavc": "iacp/12566",
+        "name": "Collateral Damage"
+    },
+    {
+        "iavc": "iacp/12567",
+        "name": "Battle Scars"
+    },
+    {
+        "iavc": "iacp/14203",
+        "name": "Hunt Them Down"
+    },
+    {
+        "iavc": "iacp/14204",
+        "name": "Cavalry Charge"
+    },
+    {
+        "iavc": "iacp/14205",
+        "name": "Unlimited Power"
+    },
+    {
+        "iavc": "iacp/14206",
+        "name": "Lord of the Sith"
+    },
+    {
+        "iavc": "iacp/14207",
+        "name": "Endless Reserves"
+    },
+    {
+        "iavc": "iacp/14308",
+        "name": "Dying Lunge"
+    },
+    {
+        "iavc": "iacp/14309",
+        "name": "Hour of Need"
+    },
+    {
+        "iavc": "iacp/14310",
+        "name": "Learn by Example"
+    },
+    {
+        "iavc": "iacp/14311",
+        "name": "Protect the Old Ways"
+    },
+    {
+        "iavc": "iacp/14312",
+        "name": "Second Chance"
+    },
+    {
+        "iavc": "iacp/14313",
+        "name": "Signal Jammer"
+    },
+    {
+        "iavc": "iacp/14314",
+        "name": "Wild Fire"
+    },
+    {
+        "iavc": "iacp/14399",
+        "name": "Spinning Kick"
+    },
+    {
+        "iavc": "iacp/14436",
+        "name": "Rebel Graffiti"
+    },
+    {
+        "iavc": "iacp/14437",
+        "name": "Veteran Instincts"
+    },
+    {
+        "iavc": "iacp/14438",
+        "name": "Escalating Hostility"
+    },
+    {
+        "iavc": "iacp/14439",
+        "name": "Karabast"
+    },
+    {
+        "iavc": "iacp/14463",
+        "name": "Foresee"
+    },
+    {
+        "iavc": "iacp/14464",
+        "name": "Combat Resupply"
+    },
+    {
+        "iavc": "iacp/14465",
+        "name": "Induce Rage"
+    },
+    {
+        "iavc": "iacp/14466",
+        "name": "Price of Glory"
+    },
+    {
+        "iavc": "iacp/14688",
+        "name": "Hostile Negotiation"
+    },
+    {
+        "iavc": "iacp/14689",
+        "name": "Out of Time"
+    },
+    {
+        "iavc": "iacp/14690",
+        "name": "Worth Every Credit"
+    },
+    {
+        "iavc": "iacp/14691",
+        "name": "Lets Make a Deal"
+    },
+    {
+        "iavc": "iacp/14698",
+        "name": "Marked Territory"
+    },
+    {
+        "iavc": "iacp/14699",
+        "name": "Pack Alpha"
+    },
+    {
+        "iavc": "iacp/15237",
+        "name": "Close and Personal"
+    },
+    {
+        "iavc": "iacp/15239",
+        "name": "There Is No Try"
+    },
+    {
+        "iavc": "iacp/15240",
+        "name": "Get Behind Me!"
+    },
+    {
+        "iavc": "iacp/15241",
+        "name": "Findsman Meditation"
+    },
+    {
+        "iavc": "iacp/15242",
+        "name": "Preservation Protocol"
+    },
+    {
+        "iavc": "iacp/15243",
+        "name": "Get Behind Me!"
+    },
+    {
+        "iavc": "iacp/15245",
+        "name": "Soften the Blow"
+    },
+    {
+        "iavc": "iacp/15323",
+        "name": "Parry"
+    },
+    {
+        "iavc": "iacp/198",
+        "name": "Burst Fire"
+    },
+    {
+        "iavc": "iacp/199",
+        "name": "Furious Charge"
+    },
+    {
+        "iavc": "iacp/202",
+        "name": "One in a Million"
+    },
+    {
+        "iavc": "iacp/203",
+        "name": "Sarlacc Sweep"
+    },
+    {
+        "iavc": "iacp/204",
+        "name": "Shadow Ops"
+    },
+    {
+        "iavc": "iacp/205",
+        "name": "Son of Skywalker"
+    },
+    {
+        "iavc": "iacp/206",
+        "name": "Take it Down"
+    },
+    {
+        "iavc": "iacp/391",
+        "name": "Blaze of Glory"
+    },
+    {
+        "iavc": "iacp/392",
+        "name": "Flurry of Blades"
+    },
+    {
+        "iavc": "iacp/393",
+        "name": "I Make My Own Luck"
+    },
+    {
+        "iavc": "iacp/394",
+        "name": "Debts Repaid"
+    },
+    {
+        "iavc": "iacp/595",
+        "name": "Etiquette and Protocol"
+    },
+    {
+        "iavc": "iacp/596",
+        "name": "Hidden Trap"
+    },
+    {
+        "iavc": "iacp/597",
+        "name": "Stay Down"
+    },
+    {
+        "iavc": "iacp/598",
+        "name": "Terminal Network"
+    },
+    {
+        "iavc": "iacp/599",
+        "name": "Mandalorian Tactics"
+    },
+    {
+        "iavc": "iacp/600",
+        "name": "Rally the Troops"
+    },
+    {
+        "iavc": "iacp/8295",
+        "name": "Coordinated Attack"
+    },
+    {
+        "iavc": "iacp/8303",
+        "name": "Master Operative"
+    },
+    {
+        "iavc": "iacp/8304",
+        "name": "Miracle Worker"
+    },
+    {
+        "iavc": "iacp/8306",
+        "name": "Optimal Bombardment"
+    },
+    {
+        "iavc": "iacp/8308",
+        "name": "Payback"
+    },
+    {
+        "iavc": "iacp/8312",
+        "name": "There is Another"
+    },
+    {
+        "iavc": "iacp/8736",
+        "name": "Espionage Mastery"
+    },
+    {
+        "iavc": "iacp/8737",
+        "name": "Trandoshan Terror"
+    },
+    {
+        "iavc": "iacp/8738",
+        "name": "Cheat to Win"
+    },
+    {
+        "iavc": "iacp/8739",
+        "name": "Fatal Deception"
+    },
+    {
+        "iavc": "iacp/8740",
+        "name": "Vanish"
+    },
+    {
+        "iavc": "iacp/8751",
+        "name": "Stroke of Brilliance"
+    },
+    {
+        "iavc": "iacp/8752",
+        "name": "I Must Go Alone"
+    },
+    {
+        "iavc": "iacp/8885",
+        "name": "Bladestorm"
+    },
+    {
+        "iavc": "iacp/8886",
+        "name": "Blood Feud"
+    },
+    {
+        "iavc": "iacp/8887",
+        "name": "Draw!"
+    },
+    {
+        "iavc": "iacp/8888",
+        "name": "Extra Protection"
+    },
+    {
+        "iavc": "iacp/8983",
+        "name": "Adrenaline"
+    },
+    {
+        "iavc": "iacp/8984",
+        "name": "Against the Odds"
+    },
+    {
+        "iavc": "iacp/8989",
+        "name": "Blitz"
+    },
+    {
+        "iavc": "iacp/8991",
+        "name": "Brace Yourself"
+    },
+    {
+        "iavc": "iacp/8993",
+        "name": "Camouflage"
+    },
+    {
+        "iavc": "iacp/8995",
+        "name": "Celebration"
+    },
+    {
+        "iavc": "iacp/8996",
+        "name": "Change of Plans"
+    },
+    {
+        "iavc": "iacp/8997",
+        "name": "Close the Gap"
+    },
+    {
+        "iavc": "iacp/8998",
+        "name": "Collect Intel"
+    },
+    {
+        "iavc": "iacp/8999",
+        "name": "Comm Disruption"
+    },
+    {
+        "iavc": "iacp/9001",
+        "name": "Covering Fire"
+    },
+    {
+        "iavc": "iacp/9003",
+        "name": "Cruel Strike"
+    },
+    {
+        "iavc": "iacp/9004",
+        "name": "Crush"
+    },
+    {
+        "iavc": "iacp/9006",
+        "name": "Dangerous Bargains"
+    },
+    {
+        "iavc": "iacp/9008",
+        "name": "Deadeye"
+    },
+    {
+        "iavc": "iacp/9011",
+        "name": "Dirty Trick"
+    },
+    {
+        "iavc": "iacp/9013",
+        "name": "Disorient"
+    },
+    {
+        "iavc": "iacp/9014",
+        "name": "Efficient Travel"
+    },
+    {
+        "iavc": "iacp/9015",
+        "name": "Element of Surprise"
+    },
+    {
+        "iavc": "iacp/9016",
+        "name": "Emergency Aid"
+    },
+    {
+        "iavc": "iacp/9018",
+        "name": "Expose Weakness"
+    },
+    {
+        "iavc": "iacp/9020",
+        "name": "Ferocity"
+    },
+    {
+        "iavc": "iacp/9021",
+        "name": "Field Tactician"
+    },
+    {
+        "iavc": "iacp/9022",
+        "name": "Fleet Footed"
+    },
+    {
+        "iavc": "iacp/9023",
+        "name": "Focus"
+    },
+    {
+        "iavc": "iacp/9027",
+        "name": "Fuel Upgrade"
+    },
+    {
+        "iavc": "iacp/9032",
+        "name": "Hard to Hit"
+    },
+    {
+        "iavc": "iacp/9033",
+        "name": "Harsh Environment"
+    },
+    {
+        "iavc": "iacp/9037",
+        "name": "Hit and Run"
+    },
+    {
+        "iavc": "iacp/9041",
+        "name": "Improvised Weapons"
+    },
+    {
+        "iavc": "iacp/9045",
+        "name": "Jump Jets"
+    },
+    {
+        "iavc": "iacp/9046",
+        "name": "Jundland Terror"
+    },
+    {
+        "iavc": "iacp/9048",
+        "name": "Marksman"
+    },
+    {
+        "iavc": "iacp/9051",
+        "name": "Mitigate"
+    },
+    {
+        "iavc": "iacp/9052",
+        "name": "Negation"
+    },
+    {
+        "iavc": "iacp/9054",
+        "name": "Of No Importance"
+    },
+    {
+        "iavc": "iacp/9057",
+        "name": "Overdrive"
+    },
+    {
+        "iavc": "iacp/9062",
+        "name": "Planning"
+    },
+    {
+        "iavc": "iacp/9063",
+        "name": "Positioning Advantage"
+    },
+    {
+        "iavc": "iacp/9066",
+        "name": "Provoke"
+    },
+    {
+        "iavc": "iacp/9067",
+        "name": "Pummel"
+    },
+    {
+        "iavc": "iacp/9068",
+        "name": "Rally"
+    },
+    {
+        "iavc": "iacp/9070",
+        "name": "Recovery"
+    },
+    {
+        "iavc": "iacp/9072",
+        "name": "Reinforcements"
+    },
+    {
+        "iavc": "iacp/9073",
+        "name": "Repair"
+    },
+    {
+        "iavc": "iacp/9074",
+        "name": "Reposition"
+    },
+    {
+        "iavc": "iacp/9077",
+        "name": "Self-Defense"
+    },
+    {
+        "iavc": "iacp/9078",
+        "name": "Set a Trap"
+    },
+    {
+        "iavc": "iacp/9079",
+        "name": "Set for Stun"
+    },
+    {
+        "iavc": "iacp/9080",
+        "name": "Single Purpose"
+    },
+    {
+        "iavc": "iacp/9081",
+        "name": "Sit Tight"
+    },
+    {
+        "iavc": "iacp/9082",
+        "name": "Size Advantage"
+    },
+    {
+        "iavc": "iacp/9086",
+        "name": "Squad Swarm"
+    },
+    {
+        "iavc": "iacp/9088",
+        "name": "Stealth Tactics"
+    },
+    {
+        "iavc": "iacp/9091",
+        "name": "Strength in Numbers"
+    },
+    {
+        "iavc": "iacp/9093",
+        "name": "Take Cover"
+    },
+    {
+        "iavc": "iacp/9094",
+        "name": "Take Initiative"
+    },
+    {
+        "iavc": "iacp/9096",
+        "name": "To the Limit"
+    },
+    {
+        "iavc": "iacp/9098",
+        "name": "Tough Luck"
+    },
+    {
+        "iavc": "iacp/9100",
+        "name": "Urgency"
+    },
+    {
+        "iavc": "iacp/9101",
+        "name": "Wild Fury"
+    },
+    {
+        "iavc": "iacp/9102",
+        "name": "Wild Attack"
+    },
+    {
+        "iavc": "iacp/9118",
+        "name": "Close the Gap"
+    },
+    {
+        "iavc": "iacp/9121",
+        "name": "Counter Attack"
+    },
+    {
+        "iavc": "iacp/9123",
+        "name": "Cripple"
+    },
+    {
+        "iavc": "iacp/9151",
+        "name": "Grisly Contest"
+    },
+    {
+        "iavc": "iacp/9181",
+        "name": "Parting Blow"
+    },
+    {
+        "iavc": "iacp/9261",
+        "name": "Feral Swipes"
+    },
+    {
+        "iavc": "iacp/9262",
+        "name": "Ferocity"
+    },
+    {
+        "iavc": "iacp/9334",
+        "name": "Survival Instincts"
+    },
+    {
+        "iavc": "iacp/9373",
+        "name": "Devotion"
+    },
+    {
+        "iavc": "iacp/9402",
+        "name": "Hunter Protocol"
+    },
+    {
+        "iavc": "iacp/9420",
+        "name": "Overdrive"
+    },
+    {
+        "iavc": "iacp/9436",
+        "name": "Repair"
+    },
+    {
+        "iavc": "iacp/9493",
+        "name": "Deflection"
+    },
+    {
+        "iavc": "iacp/9508",
+        "name": "Force Illusion"
+    },
+    {
+        "iavc": "iacp/9509",
+        "name": "Force Rush"
+    },
+    {
+        "iavc": "iacp/9510",
+        "name": "Force Surge"
+    },
+    {
+        "iavc": "iacp/9524",
+        "name": "I Can Feel It"
+    },
+    {
+        "iavc": "iacp/9579",
+        "name": "Telekinetic Throw"
+    },
+    {
+        "iavc": "iacp/9595",
+        "name": "Bodyguard"
+    },
+    {
+        "iavc": "iacp/9621",
+        "name": "Emergency Aid"
+    },
+    {
+        "iavc": "iacp/9636",
+        "name": "Guardian Stance"
+    },
+    {
+        "iavc": "iacp/9643",
+        "name": "Hold Ground"
+    },
+    {
+        "iavc": "iacp/9664",
+        "name": "Parry"
+    },
+    {
+        "iavc": "iacp/9671",
+        "name": "Provoke"
+    },
+    {
+        "iavc": "iacp/9743",
+        "name": "Explosive Weaponry"
+    },
+    {
+        "iavc": "iacp/9773",
+        "name": "Lock On"
+    },
+    {
+        "iavc": "iacp/9775",
+        "name": "Maximum Firepower"
+    },
+    {
+        "iavc": "iacp/9832",
+        "name": "Assassinate"
+    },
+    {
+        "iavc": "iacp/9841",
+        "name": "Capture the Weary"
+    },
+    {
+        "iavc": "iacp/9849",
+        "name": "Cripple"
+    },
+    {
+        "iavc": "iacp/9858",
+        "name": "Dirty Trick"
+    },
+    {
+        "iavc": "iacp/9875",
+        "name": "Glory of the Kill"
+    },
+    {
+        "iavc": "iacp/9882",
+        "name": "Heightened Reflexes"
+    },
+    {
+        "iavc": "iacp/9889",
+        "name": "In the Shadows"
+    },
+    {
+        "iavc": "iacp/9897",
+        "name": "Merciless"
+    },
+    {
+        "iavc": "iacp/9911",
+        "name": "Price on Their Heads"
+    },
+    {
+        "iavc": "iacp/9912",
+        "name": "Primary Target"
+    },
+    {
+        "iavc": "iacp/9944",
+        "name": "Tools for the Job"
+    },
+    {
+        "iavc": "iacp/9946",
+        "name": "Toxic Dart"
+    },
+    {
+        "iavc": "iacp/9954",
+        "name": "Battlefield Awareness"
+    },
+    {
+        "iavc": "iacp/9984",
+        "name": "Emergency Aid"
+    }
+]
