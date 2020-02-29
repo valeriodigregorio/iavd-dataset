@@ -3,7 +3,7 @@
         "affiliation": "Imperial",
         "description": "Destructive Assassin",
         "elite": true,
-        "iavc": "ffg/11667",
+        "iavd": "ffg/11667",
         "name": "BT-1",
         "unique": true
     },
@@ -11,7 +11,7 @@
         "affiliation": "Imperial",
         "description": "Specialized in Pain",
         "elite": true,
-        "iavc": "ffg/11669",
+        "iavd": "ffg/11669",
         "name": "0-0-0",
         "unique": true
     },
@@ -19,7 +19,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": true,
-        "iavc": "ffg/11677",
+        "iavd": "ffg/11677",
         "name": "Jawa Scavenger",
         "unique": false
     },
@@ -27,7 +27,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/11679",
+        "iavd": "ffg/11679",
         "name": "Jawa Scavenger",
         "unique": false
     },
@@ -35,7 +35,7 @@
         "affiliation": "Rebel",
         "description": "\"Chopper\"",
         "elite": true,
-        "iavc": "ffg/11681",
+        "iavd": "ffg/11681",
         "name": "C1-10P",
         "unique": true
     },
@@ -43,7 +43,7 @@
         "affiliation": "Rebel",
         "description": "Spectre-2",
         "elite": true,
-        "iavc": "ffg/11683",
+        "iavd": "ffg/11683",
         "name": "Hera Syndulla",
         "unique": true
     },
@@ -51,7 +51,7 @@
         "affiliation": "Neutral",
         "description": null,
         "elite": false,
-        "iavc": "ffg/11685",
+        "iavd": "ffg/11685",
         "name": "Scavenged Weaponry",
         "unique": true
     },
@@ -59,7 +59,7 @@
         "affiliation": "Neutral",
         "description": null,
         "elite": false,
-        "iavc": "ffg/11686",
+        "iavd": "ffg/11686",
         "name": "Trusted Ally",
         "unique": true
     },
@@ -67,7 +67,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/11687",
+        "iavd": "ffg/11687",
         "name": "Focused on the Kill",
         "unique": true
     },
@@ -75,7 +75,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/11744",
+        "iavd": "ffg/11744",
         "name": "Driven by Hatred",
         "unique": true
     },
@@ -83,7 +83,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/12489",
+        "iavd": "ffg/12489",
         "name": "Riot Trooper",
         "unique": false
     },
@@ -91,7 +91,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/12492",
+        "iavd": "ffg/12492",
         "name": "Riot Trooper",
         "unique": false
     },
@@ -99,7 +99,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/12495",
+        "iavd": "ffg/12495",
         "name": "Sentry Droid",
         "unique": false
     },
@@ -107,7 +107,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/12498",
+        "iavd": "ffg/12498",
         "name": "Sentry Droid",
         "unique": false
     },
@@ -115,7 +115,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/12501",
+        "iavd": "ffg/12501",
         "name": "AT-DP",
         "unique": false
     },
@@ -123,7 +123,7 @@
         "affiliation": "Imperial",
         "description": "Sith Master",
         "elite": true,
-        "iavc": "ffg/12503",
+        "iavd": "ffg/12503",
         "name": "Emperor Palpatine",
         "unique": true
     },
@@ -131,7 +131,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/12505",
+        "iavd": "ffg/12505",
         "name": "Clawdite Shapeshifter",
         "unique": false
     },
@@ -139,7 +139,7 @@
         "affiliation": "Mercenary",
         "description": "Seeker of Vengeance",
         "elite": true,
-        "iavc": "ffg/12509",
+        "iavd": "ffg/12509",
         "name": "Maul",
         "unique": true
     },
@@ -147,7 +147,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/12511",
+        "iavd": "ffg/12511",
         "name": "Drokkatta",
         "unique": true
     },
@@ -155,7 +155,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/12513",
+        "iavd": "ffg/12513",
         "name": "Jarrod Kelvin",
         "unique": true
     },
@@ -163,7 +163,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/12515",
+        "iavd": "ffg/12515",
         "name": "Ko-Tun Feralo",
         "unique": true
     },
@@ -171,7 +171,7 @@
         "affiliation": "Rebel",
         "description": "Rebel Instigator",
         "elite": true,
-        "iavc": "ffg/12517",
+        "iavd": "ffg/12517",
         "name": "Ahsoka Tano",
         "unique": true
     },
@@ -179,7 +179,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/12519",
+        "iavd": "ffg/12519",
         "name": "Rogue Smuggler",
         "unique": true
     },
@@ -187,7 +187,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/12521",
+        "iavd": "ffg/12521",
         "name": "Wookiee Avenger",
         "unique": true
     },
@@ -195,7 +195,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": true,
-        "iavc": "ffg/12757",
+        "iavd": "ffg/12757",
         "name": "Clawdite Shapeshifter",
         "unique": false
     },
@@ -203,7 +203,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/14284",
+        "iavd": "ffg/14284",
         "name": "Death Trooper",
         "unique": false
     },
@@ -211,7 +211,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/14287",
+        "iavd": "ffg/14287",
         "name": "Death Trooper",
         "unique": false
     },
@@ -219,7 +219,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": true,
-        "iavc": "ffg/14294",
+        "iavd": "ffg/14294",
         "name": "Loth-cat",
         "unique": false
     },
@@ -227,7 +227,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/14297",
+        "iavd": "ffg/14297",
         "name": "Loth-cat",
         "unique": false
     },
@@ -235,7 +235,7 @@
         "affiliation": "Neutral",
         "description": null,
         "elite": false,
-        "iavc": "ffg/14301",
+        "iavd": "ffg/14301",
         "name": "Doubt",
         "unique": true
     },
@@ -243,7 +243,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/14302",
+        "iavd": "ffg/14302",
         "name": "CT-1701",
         "unique": true
     },
@@ -251,7 +251,7 @@
         "affiliation": "Rebel",
         "description": "Spectre-6",
         "elite": true,
-        "iavc": "ffg/14304",
+        "iavd": "ffg/14304",
         "name": "Ezra Bridger",
         "unique": true
     },
@@ -259,7 +259,7 @@
         "affiliation": "Rebel",
         "description": "Spectre-1",
         "elite": true,
-        "iavc": "ffg/14306",
+        "iavd": "ffg/14306",
         "name": "Kanan Jarrus",
         "unique": true
     },
@@ -267,7 +267,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/14404",
+        "iavd": "ffg/14404",
         "name": "Tress Hacnua",
         "unique": true
     },
@@ -275,7 +275,7 @@
         "affiliation": "Rebel",
         "description": "Spectre-4",
         "elite": false,
-        "iavc": "ffg/14406",
+        "iavd": "ffg/14406",
         "name": "Zeb Orrelios",
         "unique": true
     },
@@ -283,7 +283,7 @@
         "affiliation": "Rebel",
         "description": "Spectre-5",
         "elite": true,
-        "iavc": "ffg/14440",
+        "iavd": "ffg/14440",
         "name": "Sabine Wren",
         "unique": true
     },
@@ -291,7 +291,7 @@
         "affiliation": "Neutral",
         "description": null,
         "elite": true,
-        "iavc": "ffg/14446",
+        "iavd": "ffg/14446",
         "name": "Extra Armor",
         "unique": false
     },
@@ -299,7 +299,7 @@
         "affiliation": "Imperial",
         "description": "Grand Admiral",
         "elite": true,
-        "iavc": "ffg/14456",
+        "iavd": "ffg/14456",
         "name": "Thrawn",
         "unique": true
     },
@@ -307,7 +307,7 @@
         "affiliation": "Neutral",
         "description": null,
         "elite": false,
-        "iavc": "ffg/14462",
+        "iavd": "ffg/14462",
         "name": "Heavy Fire",
         "unique": true
     },
@@ -315,7 +315,7 @@
         "affiliation": "Mercenary",
         "description": "Friend For Hire",
         "elite": true,
-        "iavc": "ffg/14533",
+        "iavd": "ffg/14533",
         "name": "Hondo Ohnaka",
         "unique": true
     },
@@ -323,7 +323,7 @@
         "affiliation": "Neutral",
         "description": null,
         "elite": false,
-        "iavc": "ffg/14687",
+        "iavd": "ffg/14687",
         "name": "Lie in Ambush",
         "unique": true
     },
@@ -331,7 +331,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/14700",
+        "iavd": "ffg/14700",
         "name": "Spectre Cell",
         "unique": true
     },
@@ -339,7 +339,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": true,
-        "iavc": "ffg/15252",
+        "iavd": "ffg/15252",
         "name": "Tusken Raider",
         "unique": false
     },
@@ -347,7 +347,7 @@
         "affiliation": "Rebel",
         "description": "Loyal Wookiee",
         "elite": true,
-        "iavc": "ffg/20",
+        "iavd": "ffg/20",
         "name": "Chewbacca",
         "unique": true
     },
@@ -355,7 +355,7 @@
         "affiliation": "Rebel",
         "description": "Scoundrel",
         "elite": true,
-        "iavc": "ffg/21",
+        "iavd": "ffg/21",
         "name": "Han Solo",
         "unique": true
     },
@@ -363,7 +363,7 @@
         "affiliation": "Rebel",
         "description": "Hero of the Rebellion",
         "elite": true,
-        "iavc": "ffg/22",
+        "iavd": "ffg/22",
         "name": "Luke Skywalker",
         "unique": true
     },
@@ -371,7 +371,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/23",
+        "iavd": "ffg/23",
         "name": "Fenn Signis",
         "unique": true
     },
@@ -379,7 +379,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/24",
+        "iavd": "ffg/24",
         "name": "Gaarkhan",
         "unique": true
     },
@@ -387,7 +387,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/25",
+        "iavd": "ffg/25",
         "name": "Diala Passil",
         "unique": true
     },
@@ -395,7 +395,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/26",
+        "iavd": "ffg/26",
         "name": "Rebel Trooper",
         "unique": false
     },
@@ -403,7 +403,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/27",
+        "iavd": "ffg/27",
         "name": "Jyn Odan",
         "unique": true
     },
@@ -411,7 +411,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/28",
+        "iavd": "ffg/28",
         "name": "Rebel Saboteur",
         "unique": false
     },
@@ -419,7 +419,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/29",
+        "iavd": "ffg/29",
         "name": "Gideon Argus",
         "unique": true
     },
@@ -427,7 +427,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/30",
+        "iavd": "ffg/30",
         "name": "Mak Eshka'rey",
         "unique": true
     },
@@ -435,7 +435,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/31",
+        "iavd": "ffg/31",
         "name": "Rebel High Command",
         "unique": true
     },
@@ -443,7 +443,7 @@
         "affiliation": "Imperial",
         "description": "Lord of the Sith",
         "elite": true,
-        "iavc": "ffg/34",
+        "iavd": "ffg/34",
         "name": "Darth Vader",
         "unique": true
     },
@@ -451,7 +451,7 @@
         "affiliation": "Imperial",
         "description": "Field Commander",
         "elite": true,
-        "iavc": "ffg/35",
+        "iavd": "ffg/35",
         "name": "General Weiss",
         "unique": true
     },
@@ -459,7 +459,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/36",
+        "iavd": "ffg/36",
         "name": "Royal Guard Champion",
         "unique": true
     },
@@ -467,7 +467,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/37",
+        "iavd": "ffg/37",
         "name": "AT-ST",
         "unique": false
     },
@@ -475,7 +475,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/38",
+        "iavd": "ffg/38",
         "name": "Royal Guard",
         "unique": false
     },
@@ -483,7 +483,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/39",
+        "iavd": "ffg/39",
         "name": "E-Web Engineer",
         "unique": false
     },
@@ -491,7 +491,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/40",
+        "iavd": "ffg/40",
         "name": "Stormtrooper",
         "unique": false
     },
@@ -499,7 +499,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/41",
+        "iavd": "ffg/41",
         "name": "Imperial Officer",
         "unique": false
     },
@@ -507,7 +507,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/42",
+        "iavd": "ffg/42",
         "name": "Probe Droid",
         "unique": false
     },
@@ -515,7 +515,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": true,
-        "iavc": "ffg/426",
+        "iavd": "ffg/426",
         "name": "Rebel Trooper",
         "unique": false
     },
@@ -523,7 +523,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": true,
-        "iavc": "ffg/428",
+        "iavd": "ffg/428",
         "name": "Rebel Saboteur",
         "unique": false
     },
@@ -531,7 +531,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/43",
+        "iavd": "ffg/43",
         "name": "Probe Droid",
         "unique": false
     },
@@ -539,7 +539,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/44",
+        "iavd": "ffg/44",
         "name": "Imperial Officer",
         "unique": false
     },
@@ -547,7 +547,7 @@
         "affiliation": "Imperial",
         "description": "Hired Guns",
         "elite": false,
-        "iavc": "ffg/45",
+        "iavd": "ffg/45",
         "name": "Temporary Alliance",
         "unique": true
     },
@@ -555,7 +555,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/46",
+        "iavd": "ffg/46",
         "name": "Stormtrooper",
         "unique": false
     },
@@ -563,7 +563,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/48",
+        "iavd": "ffg/48",
         "name": "Royal Guard",
         "unique": false
     },
@@ -571,7 +571,7 @@
         "affiliation": "Mercenary",
         "description": "Assassin Droid",
         "elite": true,
-        "iavc": "ffg/49",
+        "iavd": "ffg/49",
         "name": "IG-88",
         "unique": true
     },
@@ -579,7 +579,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": true,
-        "iavc": "ffg/50",
+        "iavd": "ffg/50",
         "name": "Trandoshan Hunter",
         "unique": false
     },
@@ -587,7 +587,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/51",
+        "iavd": "ffg/51",
         "name": "Trandoshan Hunter",
         "unique": false
     },
@@ -595,7 +595,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": true,
-        "iavc": "ffg/52",
+        "iavd": "ffg/52",
         "name": "Nexu",
         "unique": false
     },
@@ -603,7 +603,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/53",
+        "iavd": "ffg/53",
         "name": "Nexu",
         "unique": false
     },
@@ -611,7 +611,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/54",
+        "iavd": "ffg/54",
         "name": "First Strike",
         "unique": true
     },
@@ -619,7 +619,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/547",
+        "iavd": "ffg/547",
         "name": "Biv Bodhrik",
         "unique": true
     },
@@ -627,7 +627,7 @@
         "affiliation": "Rebel",
         "description": "Human-Cyborg Relations",
         "elite": true,
-        "iavc": "ffg/549",
+        "iavd": "ffg/549",
         "name": "C-3PO",
         "unique": true
     },
@@ -635,7 +635,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/55",
+        "iavd": "ffg/55",
         "name": "Devious Scheme",
         "unique": true
     },
@@ -643,7 +643,7 @@
         "affiliation": "Rebel",
         "description": "Loyal Astromech",
         "elite": true,
-        "iavc": "ffg/551",
+        "iavd": "ffg/551",
         "name": "R2-D2",
         "unique": true
     },
@@ -651,7 +651,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/553",
+        "iavd": "ffg/553",
         "name": "Saska Teft",
         "unique": true
     },
@@ -659,7 +659,7 @@
         "affiliation": "Mercenary",
         "description": "Infamous Bounty Hunter",
         "elite": true,
-        "iavc": "ffg/557",
+        "iavd": "ffg/557",
         "name": "Boba Fett",
         "unique": true
     },
@@ -667,7 +667,7 @@
         "affiliation": "Mercenary",
         "description": "A Common Enemy",
         "elite": false,
-        "iavc": "ffg/56",
+        "iavd": "ffg/56",
         "name": "Temporary Alliance",
         "unique": true
     },
@@ -675,7 +675,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/561",
+        "iavd": "ffg/561",
         "name": "Tusken Raider",
         "unique": false
     },
@@ -683,7 +683,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/565",
+        "iavd": "ffg/565",
         "name": "Explosive Armaments",
         "unique": true
     },
@@ -691,7 +691,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/566",
+        "iavd": "ffg/566",
         "name": "Heavy Stormtrooper",
         "unique": false
     },
@@ -699,7 +699,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/568",
+        "iavd": "ffg/568",
         "name": "Heavy Stormtrooper",
         "unique": false
     },
@@ -707,7 +707,7 @@
         "affiliation": "Imperial",
         "description": "Trooper Commander",
         "elite": true,
-        "iavc": "ffg/570",
+        "iavd": "ffg/570",
         "name": "Kayn Somos",
         "unique": true
     },
@@ -715,7 +715,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/572",
+        "iavd": "ffg/572",
         "name": "Rule by Fear",
         "unique": true
     },
@@ -723,7 +723,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/652",
+        "iavd": "ffg/652",
         "name": "Vader's Finest",
         "unique": false
     },
@@ -731,7 +731,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": true,
-        "iavc": "ffg/653",
+        "iavd": "ffg/653",
         "name": "Hired Gun",
         "unique": false
     },
@@ -739,7 +739,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/655",
+        "iavd": "ffg/655",
         "name": "Hired Gun",
         "unique": false
     },
@@ -747,7 +747,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/657",
+        "iavd": "ffg/657",
         "name": "Last Resort",
         "unique": false
     },
@@ -755,7 +755,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/659",
+        "iavd": "ffg/659",
         "name": "Fury of Kashyyyk",
         "unique": false
     },
@@ -763,7 +763,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": true,
-        "iavc": "ffg/661",
+        "iavd": "ffg/661",
         "name": "Wookiee Warrior",
         "unique": false
     },
@@ -771,7 +771,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/663",
+        "iavd": "ffg/663",
         "name": "Wookiee Warrior",
         "unique": false
     },
@@ -779,7 +779,7 @@
         "affiliation": "Imperial",
         "description": "Vicious Tactician",
         "elite": true,
-        "iavc": "ffg/8223",
+        "iavd": "ffg/8223",
         "name": "General Sorin",
         "unique": true
     },
@@ -787,7 +787,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8225",
+        "iavd": "ffg/8225",
         "name": "Snowtrooper",
         "unique": false
     },
@@ -795,7 +795,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8227",
+        "iavd": "ffg/8227",
         "name": "Snowtrooper",
         "unique": false
     },
@@ -803,7 +803,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8229",
+        "iavd": "ffg/8229",
         "name": "SC2-M Repulsor Tank",
         "unique": false
     },
@@ -811,7 +811,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8231",
+        "iavd": "ffg/8231",
         "name": "The General's Ranks",
         "unique": true
     },
@@ -819,7 +819,7 @@
         "affiliation": "Mercenary",
         "description": "Ruthless Killer",
         "elite": true,
-        "iavc": "ffg/8232",
+        "iavd": "ffg/8232",
         "name": "Dengar",
         "unique": true
     },
@@ -827,7 +827,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8234",
+        "iavd": "ffg/8234",
         "name": "HK Assassin Droid",
         "unique": false
     },
@@ -835,7 +835,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8236",
+        "iavd": "ffg/8236",
         "name": "HK Assassin Droid",
         "unique": false
     },
@@ -843,7 +843,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8238",
+        "iavd": "ffg/8238",
         "name": "Wampa",
         "unique": false
     },
@@ -851,7 +851,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8240",
+        "iavd": "ffg/8240",
         "name": "Wampa",
         "unique": false
     },
@@ -859,7 +859,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8242",
+        "iavd": "ffg/8242",
         "name": "Combat Suit",
         "unique": false
     },
@@ -867,7 +867,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8243",
+        "iavd": "ffg/8243",
         "name": "On a Diplomatic Mission",
         "unique": true
     },
@@ -875,7 +875,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8244",
+        "iavd": "ffg/8244",
         "name": "Echo Base Trooper",
         "unique": false
     },
@@ -883,7 +883,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8246",
+        "iavd": "ffg/8246",
         "name": "Echo Base Trooper",
         "unique": false
     },
@@ -891,7 +891,7 @@
         "affiliation": "Rebel",
         "description": "Rebel Commander",
         "elite": true,
-        "iavc": "ffg/8248",
+        "iavd": "ffg/8248",
         "name": "Leia Organa",
         "unique": true
     },
@@ -899,7 +899,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8250",
+        "iavd": "ffg/8250",
         "name": "Loku Kanoloa",
         "unique": true
     },
@@ -907,7 +907,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8252",
+        "iavd": "ffg/8252",
         "name": "MHD-19",
         "unique": true
     },
@@ -915,7 +915,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8254",
+        "iavd": "ffg/8254",
         "name": "Verena Talos",
         "unique": true
     },
@@ -923,7 +923,7 @@
         "affiliation": "Neutral",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8278",
+        "iavd": "ffg/8278",
         "name": "Targeting Computer",
         "unique": false
     },
@@ -931,7 +931,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8470",
+        "iavd": "ffg/8470",
         "name": "Punishing Strike",
         "unique": true
     },
@@ -939,7 +939,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8472",
+        "iavd": "ffg/8472",
         "name": "Bantha Rider",
         "unique": false
     },
@@ -947,7 +947,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8476",
+        "iavd": "ffg/8476",
         "name": "Alliance Smuggler",
         "unique": false
     },
@@ -955,7 +955,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8478",
+        "iavd": "ffg/8478",
         "name": "Alliance Smuggler",
         "unique": false
     },
@@ -963,7 +963,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8482",
+        "iavd": "ffg/8482",
         "name": "Smuggler's Run",
         "unique": true
     },
@@ -971,7 +971,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8483",
+        "iavd": "ffg/8483",
         "name": "Beast Tamer",
         "unique": true
     },
@@ -979,7 +979,7 @@
         "affiliation": "Imperial",
         "description": "ISB Interrogator",
         "elite": true,
-        "iavc": "ffg/8543",
+        "iavd": "ffg/8543",
         "name": "Agent Blaise",
         "unique": true
     },
@@ -987,7 +987,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8545",
+        "iavd": "ffg/8545",
         "name": "Cross-Training",
         "unique": false
     },
@@ -995,7 +995,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8547",
+        "iavd": "ffg/8547",
         "name": "ISB Infiltrator",
         "unique": false
     },
@@ -1003,7 +1003,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8549",
+        "iavd": "ffg/8549",
         "name": "ISB Infiltrator",
         "unique": false
     },
@@ -1011,7 +1011,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8551",
+        "iavd": "ffg/8551",
         "name": "Zillo Technique",
         "unique": true
     },
@@ -1019,7 +1019,7 @@
         "affiliation": "Mercenary",
         "description": "Born Hunter",
         "elite": true,
-        "iavc": "ffg/8553",
+        "iavd": "ffg/8553",
         "name": "Bossk",
         "unique": true
     },
@@ -1027,7 +1027,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8555",
+        "iavd": "ffg/8555",
         "name": "Headhunter",
         "unique": true
     },
@@ -1035,7 +1035,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8557",
+        "iavd": "ffg/8557",
         "name": "Ugnaught Tinkerer",
         "unique": false
     },
@@ -1043,7 +1043,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8559",
+        "iavd": "ffg/8559",
         "name": "Ugnaught Tinkerer",
         "unique": false
     },
@@ -1051,7 +1051,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8561",
+        "iavd": "ffg/8561",
         "name": "Under Duress",
         "unique": true
     },
@@ -1059,7 +1059,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8563",
+        "iavd": "ffg/8563",
         "name": "Wing Guard",
         "unique": false
     },
@@ -1067,7 +1067,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8565",
+        "iavd": "ffg/8565",
         "name": "Wing Guard",
         "unique": false
     },
@@ -1075,7 +1075,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8567",
+        "iavd": "ffg/8567",
         "name": "Davith Elso",
         "unique": true
     },
@@ -1083,7 +1083,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8569",
+        "iavd": "ffg/8569",
         "name": "Heroic Effort",
         "unique": true
     },
@@ -1091,7 +1091,7 @@
         "affiliation": "Rebel",
         "description": "Charming Gambler",
         "elite": true,
-        "iavc": "ffg/8571",
+        "iavd": "ffg/8571",
         "name": "Lando Calrissian",
         "unique": true
     },
@@ -1099,7 +1099,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8573",
+        "iavd": "ffg/8573",
         "name": "Murne Rin",
         "unique": true
     },
@@ -1107,7 +1107,7 @@
         "affiliation": "Neutral",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8575",
+        "iavd": "ffg/8575",
         "name": "Unshakable",
         "unique": true
     },
@@ -1115,7 +1115,7 @@
         "affiliation": "Imperial",
         "description": "Sith Loyalist",
         "elite": true,
-        "iavc": "ffg/8742",
+        "iavd": "ffg/8742",
         "name": "The Grand Inquisitor",
         "unique": true
     },
@@ -1123,7 +1123,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8744",
+        "iavd": "ffg/8744",
         "name": "Advanced Com Systems",
         "unique": true
     },
@@ -1131,7 +1131,7 @@
         "affiliation": "Mercenary",
         "description": "Ambitious Mercenary",
         "elite": true,
-        "iavc": "ffg/8754",
+        "iavd": "ffg/8754",
         "name": "Greedo",
         "unique": true
     },
@@ -1139,7 +1139,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8756",
+        "iavd": "ffg/8756",
         "name": "Prey on the Weak",
         "unique": true
     },
@@ -1147,7 +1147,7 @@
         "affiliation": "Rebel",
         "description": "Jedi Knight",
         "elite": true,
-        "iavc": "ffg/8757",
+        "iavd": "ffg/8757",
         "name": "Obi-Wan Kenobi",
         "unique": true
     },
@@ -1155,7 +1155,7 @@
         "affiliation": "Neutral",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8760",
+        "iavd": "ffg/8760",
         "name": "Channel the Force",
         "unique": true
     },
@@ -1163,7 +1163,7 @@
         "affiliation": "Imperial",
         "description": "Wasteland Enforcer",
         "elite": true,
-        "iavc": "ffg/8910",
+        "iavd": "ffg/8910",
         "name": "Captain Terro",
         "unique": true
     },
@@ -1171,7 +1171,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8912",
+        "iavd": "ffg/8912",
         "name": "Dewback Rider",
         "unique": false
     },
@@ -1179,7 +1179,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8914",
+        "iavd": "ffg/8914",
         "name": "Jet Trooper",
         "unique": false
     },
@@ -1187,7 +1187,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8916",
+        "iavd": "ffg/8916",
         "name": "Jet Trooper",
         "unique": false
     },
@@ -1195,7 +1195,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8936",
+        "iavd": "ffg/8936",
         "name": "Gamorrean Guard",
         "unique": false
     },
@@ -1203,7 +1203,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8938",
+        "iavd": "ffg/8938",
         "name": "Gamorrean Guard",
         "unique": false
     },
@@ -1211,7 +1211,7 @@
         "affiliation": "Mercenary",
         "description": "Vile Gangster",
         "elite": true,
-        "iavc": "ffg/8940",
+        "iavd": "ffg/8940",
         "name": "Jabba the Hutt",
         "unique": true
     },
@@ -1219,7 +1219,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8942",
+        "iavd": "ffg/8942",
         "name": "Onar Koma",
         "unique": true
     },
@@ -1227,7 +1227,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8944",
+        "iavd": "ffg/8944",
         "name": "Rancor",
         "unique": false
     },
@@ -1235,7 +1235,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8946",
+        "iavd": "ffg/8946",
         "name": "Shyla Varad",
         "unique": true
     },
@@ -1243,7 +1243,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8948",
+        "iavd": "ffg/8948",
         "name": "Vinto Hreeda",
         "unique": true
     },
@@ -1251,7 +1251,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8950",
+        "iavd": "ffg/8950",
         "name": "Weequay Pirate",
         "unique": false
     },
@@ -1259,7 +1259,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8952",
+        "iavd": "ffg/8952",
         "name": "Weequay Pirate",
         "unique": false
     },
@@ -1267,7 +1267,7 @@
         "affiliation": "Neutral",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8954",
+        "iavd": "ffg/8954",
         "name": "Feeding Frenzy",
         "unique": false
     },
@@ -1275,7 +1275,7 @@
         "affiliation": "Neutral",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8955",
+        "iavd": "ffg/8955",
         "name": "Motivation",
         "unique": true
     },
@@ -1283,7 +1283,7 @@
         "affiliation": "Neutral",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8956",
+        "iavd": "ffg/8956",
         "name": "Survivalist",
         "unique": false
     },
@@ -1291,7 +1291,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8957",
+        "iavd": "ffg/8957",
         "name": "Black Market",
         "unique": true
     },
@@ -1299,7 +1299,7 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8958",
+        "iavd": "ffg/8958",
         "name": "Indentured Jester",
         "unique": true
     },
@@ -1307,7 +1307,7 @@
         "affiliation": "Rebel",
         "description": "Jedi Knight",
         "elite": true,
-        "iavc": "ffg/8959",
+        "iavd": "ffg/8959",
         "name": "Luke Skywalker",
         "unique": true
     },
@@ -1315,7 +1315,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": true,
-        "iavc": "ffg/8961",
+        "iavd": "ffg/8961",
         "name": "Alliance Ranger",
         "unique": false
     },
@@ -1323,7 +1323,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/8963",
+        "iavd": "ffg/8963",
         "name": "Alliance Ranger",
         "unique": false
     },
@@ -1331,7 +1331,7 @@
         "affiliation": "Rebel",
         "description": null,
         "elite": false,
-        "iavc": "ffg/94",
+        "iavd": "ffg/94",
         "name": "Balance of the Force",
         "unique": true
     },
@@ -1339,7 +1339,7 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
-        "iavc": "ffg/95",
+        "iavd": "ffg/95",
         "name": "E-Web Engineer",
         "unique": false
     }

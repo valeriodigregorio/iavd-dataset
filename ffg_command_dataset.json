@@ -1,1070 +1,1070 @@
 [
     {
-        "iavc": "ffg/10011",
+        "iavd": "ffg/10011",
         "name": "Inspiring Speech"
     },
     {
-        "iavc": "ffg/10021",
+        "iavd": "ffg/10021",
         "name": "New Orders"
     },
     {
-        "iavc": "ffg/10030",
+        "iavd": "ffg/10030",
         "name": "Planning"
     },
     {
-        "iavc": "ffg/10039",
+        "iavd": "ffg/10039",
         "name": "Regroup"
     },
     {
-        "iavc": "ffg/10042",
+        "iavd": "ffg/10042",
         "name": "Reposition"
     },
     {
-        "iavc": "ffg/10077",
+        "iavd": "ffg/10077",
         "name": "Black Market Prices"
     },
     {
-        "iavc": "ffg/10100",
+        "iavd": "ffg/10100",
         "name": "Dirty Trick"
     },
     {
-        "iavc": "ffg/10101",
+        "iavd": "ffg/10101",
         "name": "Disable"
     },
     {
-        "iavc": "ffg/10131",
+        "iavd": "ffg/10131",
         "name": "In the Shadows"
     },
     {
-        "iavc": "ffg/10144",
+        "iavd": "ffg/10144",
         "name": "On the Lam"
     },
     {
-        "iavc": "ffg/10150",
+        "iavd": "ffg/10150",
         "name": "Pickpocket"
     },
     {
-        "iavc": "ffg/10165",
+        "iavd": "ffg/10165",
         "name": "Run for Cover"
     },
     {
-        "iavc": "ffg/10172",
+        "iavd": "ffg/10172",
         "name": "Slippery Target"
     },
     {
-        "iavc": "ffg/10173",
+        "iavd": "ffg/10173",
         "name": "Smuggled Supplies"
     },
     {
-        "iavc": "ffg/10174",
+        "iavd": "ffg/10174",
         "name": "Smugglers Tricks"
     },
     {
-        "iavc": "ffg/10178",
+        "iavd": "ffg/10178",
         "name": "Stimulants"
     },
     {
-        "iavc": "ffg/10186",
+        "iavd": "ffg/10186",
         "name": "Tools for the Job"
     },
     {
-        "iavc": "ffg/10188",
+        "iavd": "ffg/10188",
         "name": "Toxic Dart"
     },
     {
-        "iavc": "ffg/10197",
+        "iavd": "ffg/10197",
         "name": "Behind Enemy Lines"
     },
     {
-        "iavc": "ffg/10208",
+        "iavd": "ffg/10208",
         "name": "Collect Intel"
     },
     {
-        "iavc": "ffg/10209",
+        "iavd": "ffg/10209",
         "name": "Comm Disruption"
     },
     {
-        "iavc": "ffg/10215",
+        "iavd": "ffg/10215",
         "name": "Cut Lines"
     },
     {
-        "iavc": "ffg/10217",
+        "iavd": "ffg/10217",
         "name": "Data Theft"
     },
     {
-        "iavc": "ffg/10246",
+        "iavd": "ffg/10246",
         "name": "Hide in Plain Sight"
     },
     {
-        "iavc": "ffg/10254",
+        "iavd": "ffg/10254",
         "name": "Intelligence Leak"
     },
     {
-        "iavc": "ffg/10293",
+        "iavd": "ffg/10293",
         "name": "Slippery Target"
     },
     {
-        "iavc": "ffg/10297",
+        "iavd": "ffg/10297",
         "name": "Stall for Time"
     },
     {
-        "iavc": "ffg/10300",
+        "iavd": "ffg/10300",
         "name": "Strategic Shift"
     },
     {
-        "iavc": "ffg/10332",
+        "iavd": "ffg/10332",
         "name": "Covering Fire"
     },
     {
-        "iavc": "ffg/10360",
+        "iavd": "ffg/10360",
         "name": "Grenadier"
     },
     {
-        "iavc": "ffg/10397",
+        "iavd": "ffg/10397",
         "name": "Provoke"
     },
     {
-        "iavc": "ffg/10400",
+        "iavd": "ffg/10400",
         "name": "Rank and File"
     },
     {
-        "iavc": "ffg/10403",
+        "iavd": "ffg/10403",
         "name": "Reinforcements"
     },
     {
-        "iavc": "ffg/10479",
+        "iavd": "ffg/10479",
         "name": "Fuel Upgrade"
     },
     {
-        "iavc": "ffg/10486",
+        "iavd": "ffg/10486",
         "name": "Heavy Armor"
     },
     {
-        "iavc": "ffg/10510",
+        "iavd": "ffg/10510",
         "name": "Overrun"
     },
     {
-        "iavc": "ffg/10525",
+        "iavd": "ffg/10525",
         "name": "Repair"
     },
     {
-        "iavc": "ffg/10556",
+        "iavd": "ffg/10556",
         "name": "Adrenaline"
     },
     {
-        "iavc": "ffg/10676",
+        "iavd": "ffg/10676",
         "name": "Wookiee Rage"
     },
     {
-        "iavc": "ffg/10677",
+        "iavd": "ffg/10677",
         "name": "Roar"
     },
     {
-        "iavc": "ffg/10678",
+        "iavd": "ffg/10678",
         "name": "Stall for Time"
     },
     {
-        "iavc": "ffg/10679",
+        "iavd": "ffg/10679",
         "name": "Roar"
     },
     {
-        "iavc": "ffg/10680",
+        "iavd": "ffg/10680",
         "name": "Deadly Precision"
     },
     {
-        "iavc": "ffg/10681",
+        "iavd": "ffg/10681",
         "name": "Force Lightning"
     },
     {
-        "iavc": "ffg/10682",
+        "iavd": "ffg/10682",
         "name": "Lure of the Dark Side"
     },
     {
-        "iavc": "ffg/10683",
+        "iavd": "ffg/10683",
         "name": "Opportunistic"
     },
     {
-        "iavc": "ffg/10684",
+        "iavd": "ffg/10684",
         "name": "Shoot the Messenger"
     },
     {
-        "iavc": "ffg/10685",
+        "iavd": "ffg/10685",
         "name": "A Powerful Influence"
     },
     {
-        "iavc": "ffg/10686",
+        "iavd": "ffg/10686",
         "name": "Heart of Freedom"
     },
     {
-        "iavc": "ffg/10687",
+        "iavd": "ffg/10687",
         "name": "Knowledge and Defense"
     },
     {
-        "iavc": "ffg/10688",
+        "iavd": "ffg/10688",
         "name": "Meditation"
     },
     {
-        "iavc": "ffg/10689",
+        "iavd": "ffg/10689",
         "name": "Call the Vanguard"
     },
     {
-        "iavc": "ffg/10692",
+        "iavd": "ffg/10692",
         "name": "Crush"
     },
     {
-        "iavc": "ffg/10693",
+        "iavd": "ffg/10693",
         "name": "Crush"
     },
     {
-        "iavc": "ffg/10694",
+        "iavd": "ffg/10694",
         "name": "Jundland Terror"
     },
     {
-        "iavc": "ffg/10695",
+        "iavd": "ffg/10695",
         "name": "Overcharged Weapons"
     },
     {
-        "iavc": "ffg/11714",
+        "iavd": "ffg/11714",
         "name": "Ballistics Matrix"
     },
     {
-        "iavc": "ffg/11715",
+        "iavd": "ffg/11715",
         "name": "Eerie Visage"
     },
     {
-        "iavc": "ffg/11716",
+        "iavd": "ffg/11716",
         "name": "Evacuate"
     },
     {
-        "iavc": "ffg/11717",
+        "iavd": "ffg/11717",
         "name": "On a Mission"
     },
     {
-        "iavc": "ffg/11718",
+        "iavd": "ffg/11718",
         "name": "Advance Warning"
     },
     {
-        "iavc": "ffg/11719",
+        "iavd": "ffg/11719",
         "name": "Brace for Impact"
     },
     {
-        "iavc": "ffg/11720",
+        "iavd": "ffg/11720",
         "name": "Navigation Upgrade"
     },
     {
-        "iavc": "ffg/11721",
+        "iavd": "ffg/11721",
         "name": "Shared Experience"
     },
     {
-        "iavc": "ffg/11722",
+        "iavd": "ffg/11722",
         "name": "Shared Experience"
     },
     {
-        "iavc": "ffg/11723",
+        "iavd": "ffg/11723",
         "name": "Take Position"
     },
     {
-        "iavc": "ffg/11724",
+        "iavd": "ffg/11724",
         "name": "Take Position"
     },
     {
-        "iavc": "ffg/11725",
+        "iavd": "ffg/11725",
         "name": "Targeting Network"
     },
     {
-        "iavc": "ffg/11727",
+        "iavd": "ffg/11727",
         "name": "Targeting Network"
     },
     {
-        "iavc": "ffg/11728",
+        "iavd": "ffg/11728",
         "name": "Terminal Protocol"
     },
     {
-        "iavc": "ffg/11729",
+        "iavd": "ffg/11729",
         "name": "Triangulate"
     },
     {
-        "iavc": "ffg/11730",
+        "iavd": "ffg/11730",
         "name": "Utinni!"
     },
     {
-        "iavc": "ffg/11741",
+        "iavd": "ffg/11741",
         "name": "Wild Fury"
     },
     {
-        "iavc": "ffg/11742",
+        "iavd": "ffg/11742",
         "name": "Wild Fury"
     },
     {
-        "iavc": "ffg/12539",
+        "iavd": "ffg/12539",
         "name": "Field Supply"
     },
     {
-        "iavc": "ffg/12540",
+        "iavd": "ffg/12540",
         "name": "Arcing Shot"
     },
     {
-        "iavc": "ffg/12541",
+        "iavd": "ffg/12541",
         "name": "Droid Mastery"
     },
     {
-        "iavc": "ffg/12542",
+        "iavd": "ffg/12542",
         "name": "Right Back At Ya!"
     },
     {
-        "iavc": "ffg/12543",
+        "iavd": "ffg/12543",
         "name": "Force Push"
     },
     {
-        "iavc": "ffg/12544",
+        "iavd": "ffg/12544",
         "name": "Force Jump"
     },
     {
-        "iavc": "ffg/12545",
+        "iavd": "ffg/12545",
         "name": "Balancing Force"
     },
     {
-        "iavc": "ffg/12546",
+        "iavd": "ffg/12546",
         "name": "Fool Me Once"
     },
     {
-        "iavc": "ffg/12548",
+        "iavd": "ffg/12548",
         "name": "Officer's Training"
     },
     {
-        "iavc": "ffg/12549",
+        "iavd": "ffg/12549",
         "name": "Officer's Training"
     },
     {
-        "iavc": "ffg/12550",
+        "iavd": "ffg/12550",
         "name": "Prepared for Battle"
     },
     {
-        "iavc": "ffg/12551",
+        "iavd": "ffg/12551",
         "name": "Prepared for Battle"
     },
     {
-        "iavc": "ffg/12552",
+        "iavd": "ffg/12552",
         "name": "Dark Energy"
     },
     {
-        "iavc": "ffg/12553",
+        "iavd": "ffg/12553",
         "name": "Corrupting Force"
     },
     {
-        "iavc": "ffg/12554",
+        "iavd": "ffg/12554",
         "name": "Wreak Vengeance"
     },
     {
-        "iavc": "ffg/12555",
+        "iavd": "ffg/12555",
         "name": "Looking for a Fight"
     },
     {
-        "iavc": "ffg/12556",
+        "iavd": "ffg/12556",
         "name": "Face to Face"
     },
     {
-        "iavc": "ffg/12557",
+        "iavd": "ffg/12557",
         "name": "Deathblow"
     },
     {
-        "iavc": "ffg/12558",
+        "iavd": "ffg/12558",
         "name": "Chaotic Force"
     },
     {
-        "iavc": "ffg/12559",
+        "iavd": "ffg/12559",
         "name": "Ready Weapons"
     },
     {
-        "iavc": "ffg/12560",
+        "iavd": "ffg/12560",
         "name": "Ready Weapons"
     },
     {
-        "iavc": "ffg/12561",
+        "iavd": "ffg/12561",
         "name": "Concentrated Fire"
     },
     {
-        "iavc": "ffg/12562",
+        "iavd": "ffg/12562",
         "name": "Armed Escort"
     },
     {
-        "iavc": "ffg/12563",
+        "iavd": "ffg/12563",
         "name": "Armed Escort"
     },
     {
-        "iavc": "ffg/12564",
+        "iavd": "ffg/12564",
         "name": "Forward March"
     },
     {
-        "iavc": "ffg/12565",
+        "iavd": "ffg/12565",
         "name": "Heavy Ordnance"
     },
     {
-        "iavc": "ffg/12566",
+        "iavd": "ffg/12566",
         "name": "Collateral Damage"
     },
     {
-        "iavc": "ffg/12567",
+        "iavd": "ffg/12567",
         "name": "Battle Scars"
     },
     {
-        "iavc": "ffg/14203",
+        "iavd": "ffg/14203",
         "name": "Hunt Them Down"
     },
     {
-        "iavc": "ffg/14204",
+        "iavd": "ffg/14204",
         "name": "Cavalry Charge"
     },
     {
-        "iavc": "ffg/14205",
+        "iavd": "ffg/14205",
         "name": "Unlimited Power"
     },
     {
-        "iavc": "ffg/14206",
+        "iavd": "ffg/14206",
         "name": "Lord of the Sith"
     },
     {
-        "iavc": "ffg/14207",
+        "iavd": "ffg/14207",
         "name": "Endless Reserves"
     },
     {
-        "iavc": "ffg/14308",
+        "iavd": "ffg/14308",
         "name": "Dying Lunge"
     },
     {
-        "iavc": "ffg/14309",
+        "iavd": "ffg/14309",
         "name": "Hour of Need"
     },
     {
-        "iavc": "ffg/14310",
+        "iavd": "ffg/14310",
         "name": "Learn by Example"
     },
     {
-        "iavc": "ffg/14311",
+        "iavd": "ffg/14311",
         "name": "Protect the Old Ways"
     },
     {
-        "iavc": "ffg/14312",
+        "iavd": "ffg/14312",
         "name": "Second Chance"
     },
     {
-        "iavc": "ffg/14313",
+        "iavd": "ffg/14313",
         "name": "Signal Jammer"
     },
     {
-        "iavc": "ffg/14314",
+        "iavd": "ffg/14314",
         "name": "Wild Fire"
     },
     {
-        "iavc": "ffg/14399",
+        "iavd": "ffg/14399",
         "name": "Spinning Kick"
     },
     {
-        "iavc": "ffg/14436",
+        "iavd": "ffg/14436",
         "name": "Rebel Graffiti"
     },
     {
-        "iavc": "ffg/14437",
+        "iavd": "ffg/14437",
         "name": "Veteran Instincts"
     },
     {
-        "iavc": "ffg/14438",
+        "iavd": "ffg/14438",
         "name": "Escalating Hostility"
     },
     {
-        "iavc": "ffg/14439",
+        "iavd": "ffg/14439",
         "name": "Karabast"
     },
     {
-        "iavc": "ffg/14463",
+        "iavd": "ffg/14463",
         "name": "Foresee"
     },
     {
-        "iavc": "ffg/14464",
+        "iavd": "ffg/14464",
         "name": "Combat Resupply"
     },
     {
-        "iavc": "ffg/14465",
+        "iavd": "ffg/14465",
         "name": "Induce Rage"
     },
     {
-        "iavc": "ffg/14466",
+        "iavd": "ffg/14466",
         "name": "Price of Glory"
     },
     {
-        "iavc": "ffg/14688",
+        "iavd": "ffg/14688",
         "name": "Hostile Negotiation"
     },
     {
-        "iavc": "ffg/14689",
+        "iavd": "ffg/14689",
         "name": "Out of Time"
     },
     {
-        "iavc": "ffg/14690",
+        "iavd": "ffg/14690",
         "name": "Worth Every Credit"
     },
     {
-        "iavc": "ffg/14691",
+        "iavd": "ffg/14691",
         "name": "Lets Make a Deal"
     },
     {
-        "iavc": "ffg/14698",
+        "iavd": "ffg/14698",
         "name": "Marked Territory"
     },
     {
-        "iavc": "ffg/14699",
+        "iavd": "ffg/14699",
         "name": "Pack Alpha"
     },
     {
-        "iavc": "ffg/15323",
+        "iavd": "ffg/15323",
         "name": "Parry"
     },
     {
-        "iavc": "ffg/198",
+        "iavd": "ffg/198",
         "name": "Burst Fire"
     },
     {
-        "iavc": "ffg/199",
+        "iavd": "ffg/199",
         "name": "Furious Charge"
     },
     {
-        "iavc": "ffg/202",
+        "iavd": "ffg/202",
         "name": "One in a Million"
     },
     {
-        "iavc": "ffg/203",
+        "iavd": "ffg/203",
         "name": "Sarlacc Sweep"
     },
     {
-        "iavc": "ffg/204",
+        "iavd": "ffg/204",
         "name": "Shadow Ops"
     },
     {
-        "iavc": "ffg/205",
+        "iavd": "ffg/205",
         "name": "Son of Skywalker"
     },
     {
-        "iavc": "ffg/206",
+        "iavd": "ffg/206",
         "name": "Take it Down"
     },
     {
-        "iavc": "ffg/391",
+        "iavd": "ffg/391",
         "name": "Blaze of Glory"
     },
     {
-        "iavc": "ffg/392",
+        "iavd": "ffg/392",
         "name": "Flurry of Blades"
     },
     {
-        "iavc": "ffg/393",
+        "iavd": "ffg/393",
         "name": "I Make My Own Luck"
     },
     {
-        "iavc": "ffg/394",
+        "iavd": "ffg/394",
         "name": "Debts Repaid"
     },
     {
-        "iavc": "ffg/595",
+        "iavd": "ffg/595",
         "name": "Etiquette and Protocol"
     },
     {
-        "iavc": "ffg/596",
+        "iavd": "ffg/596",
         "name": "Hidden Trap"
     },
     {
-        "iavc": "ffg/597",
+        "iavd": "ffg/597",
         "name": "Stay Down"
     },
     {
-        "iavc": "ffg/598",
+        "iavd": "ffg/598",
         "name": "Terminal Network"
     },
     {
-        "iavc": "ffg/599",
+        "iavd": "ffg/599",
         "name": "Mandalorian Tactics"
     },
     {
-        "iavc": "ffg/600",
+        "iavd": "ffg/600",
         "name": "Rally the Troops"
     },
     {
-        "iavc": "ffg/8295",
+        "iavd": "ffg/8295",
         "name": "Coordinated Attack"
     },
     {
-        "iavc": "ffg/8303",
+        "iavd": "ffg/8303",
         "name": "Master Operative"
     },
     {
-        "iavc": "ffg/8304",
+        "iavd": "ffg/8304",
         "name": "Miracle Worker"
     },
     {
-        "iavc": "ffg/8306",
+        "iavd": "ffg/8306",
         "name": "Optimal Bombardment"
     },
     {
-        "iavc": "ffg/8308",
+        "iavd": "ffg/8308",
         "name": "Payback"
     },
     {
-        "iavc": "ffg/8312",
+        "iavd": "ffg/8312",
         "name": "There is Another"
     },
     {
-        "iavc": "ffg/8736",
+        "iavd": "ffg/8736",
         "name": "Espionage Mastery"
     },
     {
-        "iavc": "ffg/8737",
+        "iavd": "ffg/8737",
         "name": "Trandoshan Terror"
     },
     {
-        "iavc": "ffg/8738",
+        "iavd": "ffg/8738",
         "name": "Cheat to Win"
     },
     {
-        "iavc": "ffg/8739",
+        "iavd": "ffg/8739",
         "name": "Fatal Deception"
     },
     {
-        "iavc": "ffg/8740",
+        "iavd": "ffg/8740",
         "name": "Vanish"
     },
     {
-        "iavc": "ffg/8751",
+        "iavd": "ffg/8751",
         "name": "Stroke of Brilliance"
     },
     {
-        "iavc": "ffg/8752",
+        "iavd": "ffg/8752",
         "name": "I Must Go Alone"
     },
     {
-        "iavc": "ffg/8885",
+        "iavd": "ffg/8885",
         "name": "Bladestorm"
     },
     {
-        "iavc": "ffg/8886",
+        "iavd": "ffg/8886",
         "name": "Blood Feud"
     },
     {
-        "iavc": "ffg/8887",
+        "iavd": "ffg/8887",
         "name": "Draw!"
     },
     {
-        "iavc": "ffg/8888",
+        "iavd": "ffg/8888",
         "name": "Extra Protection"
     },
     {
-        "iavc": "ffg/8983",
+        "iavd": "ffg/8983",
         "name": "Adrenaline"
     },
     {
-        "iavc": "ffg/8984",
+        "iavd": "ffg/8984",
         "name": "Against the Odds"
     },
     {
-        "iavc": "ffg/8989",
+        "iavd": "ffg/8989",
         "name": "Blitz"
     },
     {
-        "iavc": "ffg/8991",
+        "iavd": "ffg/8991",
         "name": "Brace Yourself"
     },
     {
-        "iavc": "ffg/8993",
+        "iavd": "ffg/8993",
         "name": "Camouflage"
     },
     {
-        "iavc": "ffg/8995",
+        "iavd": "ffg/8995",
         "name": "Celebration"
     },
     {
-        "iavc": "ffg/8996",
+        "iavd": "ffg/8996",
         "name": "Change of Plans"
     },
     {
-        "iavc": "ffg/8997",
+        "iavd": "ffg/8997",
         "name": "Close the Gap"
     },
     {
-        "iavc": "ffg/8998",
+        "iavd": "ffg/8998",
         "name": "Collect Intel"
     },
     {
-        "iavc": "ffg/8999",
+        "iavd": "ffg/8999",
         "name": "Comm Disruption"
     },
     {
-        "iavc": "ffg/9001",
+        "iavd": "ffg/9001",
         "name": "Covering Fire"
     },
     {
-        "iavc": "ffg/9003",
+        "iavd": "ffg/9003",
         "name": "Cruel Strike"
     },
     {
-        "iavc": "ffg/9004",
+        "iavd": "ffg/9004",
         "name": "Crush"
     },
     {
-        "iavc": "ffg/9006",
+        "iavd": "ffg/9006",
         "name": "Dangerous Bargains"
     },
     {
-        "iavc": "ffg/9008",
+        "iavd": "ffg/9008",
         "name": "Deadeye"
     },
     {
-        "iavc": "ffg/9011",
+        "iavd": "ffg/9011",
         "name": "Dirty Trick"
     },
     {
-        "iavc": "ffg/9013",
+        "iavd": "ffg/9013",
         "name": "Disorient"
     },
     {
-        "iavc": "ffg/9014",
+        "iavd": "ffg/9014",
         "name": "Efficient Travel"
     },
     {
-        "iavc": "ffg/9015",
+        "iavd": "ffg/9015",
         "name": "Element of Surprise"
     },
     {
-        "iavc": "ffg/9016",
+        "iavd": "ffg/9016",
         "name": "Emergency Aid"
     },
     {
-        "iavc": "ffg/9018",
+        "iavd": "ffg/9018",
         "name": "Expose Weakness"
     },
     {
-        "iavc": "ffg/9020",
+        "iavd": "ffg/9020",
         "name": "Ferocity"
     },
     {
-        "iavc": "ffg/9021",
+        "iavd": "ffg/9021",
         "name": "Field Tactician"
     },
     {
-        "iavc": "ffg/9022",
+        "iavd": "ffg/9022",
         "name": "Fleet Footed"
     },
     {
-        "iavc": "ffg/9023",
+        "iavd": "ffg/9023",
         "name": "Focus"
     },
     {
-        "iavc": "ffg/9027",
+        "iavd": "ffg/9027",
         "name": "Fuel Upgrade"
     },
     {
-        "iavc": "ffg/9032",
+        "iavd": "ffg/9032",
         "name": "Hard to Hit"
     },
     {
-        "iavc": "ffg/9033",
+        "iavd": "ffg/9033",
         "name": "Harsh Environment"
     },
     {
-        "iavc": "ffg/9037",
+        "iavd": "ffg/9037",
         "name": "Hit and Run"
     },
     {
-        "iavc": "ffg/9041",
+        "iavd": "ffg/9041",
         "name": "Improvised Weapons"
     },
     {
-        "iavc": "ffg/9045",
+        "iavd": "ffg/9045",
         "name": "Jump Jets"
     },
     {
-        "iavc": "ffg/9046",
+        "iavd": "ffg/9046",
         "name": "Jundland Terror"
     },
     {
-        "iavc": "ffg/9048",
+        "iavd": "ffg/9048",
         "name": "Marksman"
     },
     {
-        "iavc": "ffg/9051",
+        "iavd": "ffg/9051",
         "name": "Mitigate"
     },
     {
-        "iavc": "ffg/9052",
+        "iavd": "ffg/9052",
         "name": "Negation"
     },
     {
-        "iavc": "ffg/9054",
+        "iavd": "ffg/9054",
         "name": "Of No Importance"
     },
     {
-        "iavc": "ffg/9057",
+        "iavd": "ffg/9057",
         "name": "Overdrive"
     },
     {
-        "iavc": "ffg/9062",
+        "iavd": "ffg/9062",
         "name": "Planning"
     },
     {
-        "iavc": "ffg/9063",
+        "iavd": "ffg/9063",
         "name": "Positioning Advantage"
     },
     {
-        "iavc": "ffg/9066",
+        "iavd": "ffg/9066",
         "name": "Provoke"
     },
     {
-        "iavc": "ffg/9067",
+        "iavd": "ffg/9067",
         "name": "Pummel"
     },
     {
-        "iavc": "ffg/9068",
+        "iavd": "ffg/9068",
         "name": "Rally"
     },
     {
-        "iavc": "ffg/9070",
+        "iavd": "ffg/9070",
         "name": "Recovery"
     },
     {
-        "iavc": "ffg/9072",
+        "iavd": "ffg/9072",
         "name": "Reinforcements"
     },
     {
-        "iavc": "ffg/9073",
+        "iavd": "ffg/9073",
         "name": "Repair"
     },
     {
-        "iavc": "ffg/9074",
+        "iavd": "ffg/9074",
         "name": "Reposition"
     },
     {
-        "iavc": "ffg/9077",
+        "iavd": "ffg/9077",
         "name": "Self-Defense"
     },
     {
-        "iavc": "ffg/9078",
+        "iavd": "ffg/9078",
         "name": "Set a Trap"
     },
     {
-        "iavc": "ffg/9079",
+        "iavd": "ffg/9079",
         "name": "Set for Stun"
     },
     {
-        "iavc": "ffg/9080",
+        "iavd": "ffg/9080",
         "name": "Single Purpose"
     },
     {
-        "iavc": "ffg/9081",
+        "iavd": "ffg/9081",
         "name": "Sit Tight"
     },
     {
-        "iavc": "ffg/9082",
+        "iavd": "ffg/9082",
         "name": "Size Advantage"
     },
     {
-        "iavc": "ffg/9086",
+        "iavd": "ffg/9086",
         "name": "Squad Swarm"
     },
     {
-        "iavc": "ffg/9088",
+        "iavd": "ffg/9088",
         "name": "Stealth Tactics"
     },
     {
-        "iavc": "ffg/9091",
+        "iavd": "ffg/9091",
         "name": "Strength in Numbers"
     },
     {
-        "iavc": "ffg/9093",
+        "iavd": "ffg/9093",
         "name": "Take Cover"
     },
     {
-        "iavc": "ffg/9094",
+        "iavd": "ffg/9094",
         "name": "Take Initiative"
     },
     {
-        "iavc": "ffg/9096",
+        "iavd": "ffg/9096",
         "name": "To the Limit"
     },
     {
-        "iavc": "ffg/9098",
+        "iavd": "ffg/9098",
         "name": "Tough Luck"
     },
     {
-        "iavc": "ffg/9100",
+        "iavd": "ffg/9100",
         "name": "Urgency"
     },
     {
-        "iavc": "ffg/9101",
+        "iavd": "ffg/9101",
         "name": "Wild Fury"
     },
     {
-        "iavc": "ffg/9102",
+        "iavd": "ffg/9102",
         "name": "Wild Attack"
     },
     {
-        "iavc": "ffg/9118",
+        "iavd": "ffg/9118",
         "name": "Close the Gap"
     },
     {
-        "iavc": "ffg/9121",
+        "iavd": "ffg/9121",
         "name": "Counter Attack"
     },
     {
-        "iavc": "ffg/9123",
+        "iavd": "ffg/9123",
         "name": "Cripple"
     },
     {
-        "iavc": "ffg/9151",
+        "iavd": "ffg/9151",
         "name": "Grisly Contest"
     },
     {
-        "iavc": "ffg/9181",
+        "iavd": "ffg/9181",
         "name": "Parting Blow"
     },
     {
-        "iavc": "ffg/9261",
+        "iavd": "ffg/9261",
         "name": "Feral Swipes"
     },
     {
-        "iavc": "ffg/9262",
+        "iavd": "ffg/9262",
         "name": "Ferocity"
     },
     {
-        "iavc": "ffg/9334",
+        "iavd": "ffg/9334",
         "name": "Survival Instincts"
     },
     {
-        "iavc": "ffg/9373",
+        "iavd": "ffg/9373",
         "name": "Devotion"
     },
     {
-        "iavc": "ffg/9402",
+        "iavd": "ffg/9402",
         "name": "Hunter Protocol"
     },
     {
-        "iavc": "ffg/9420",
+        "iavd": "ffg/9420",
         "name": "Overdrive"
     },
     {
-        "iavc": "ffg/9436",
+        "iavd": "ffg/9436",
         "name": "Repair"
     },
     {
-        "iavc": "ffg/9493",
+        "iavd": "ffg/9493",
         "name": "Deflection"
     },
     {
-        "iavc": "ffg/9508",
+        "iavd": "ffg/9508",
         "name": "Force Illusion"
     },
     {
-        "iavc": "ffg/9509",
+        "iavd": "ffg/9509",
         "name": "Force Rush"
     },
     {
-        "iavc": "ffg/9510",
+        "iavd": "ffg/9510",
         "name": "Force Surge"
     },
     {
-        "iavc": "ffg/9524",
+        "iavd": "ffg/9524",
         "name": "I Can Feel It"
     },
     {
-        "iavc": "ffg/9579",
+        "iavd": "ffg/9579",
         "name": "Telekinetic Throw"
     },
     {
-        "iavc": "ffg/9595",
+        "iavd": "ffg/9595",
         "name": "Bodyguard"
     },
     {
-        "iavc": "ffg/9621",
+        "iavd": "ffg/9621",
         "name": "Emergency Aid"
     },
     {
-        "iavc": "ffg/9636",
+        "iavd": "ffg/9636",
         "name": "Guardian Stance"
     },
     {
-        "iavc": "ffg/9643",
+        "iavd": "ffg/9643",
         "name": "Hold Ground"
     },
     {
-        "iavc": "ffg/9664",
+        "iavd": "ffg/9664",
         "name": "Parry"
     },
     {
-        "iavc": "ffg/9671",
+        "iavd": "ffg/9671",
         "name": "Provoke"
     },
     {
-        "iavc": "ffg/9743",
+        "iavd": "ffg/9743",
         "name": "Explosive Weaponry"
     },
     {
-        "iavc": "ffg/9773",
+        "iavd": "ffg/9773",
         "name": "Lock On"
     },
     {
-        "iavc": "ffg/9775",
+        "iavd": "ffg/9775",
         "name": "Maximum Firepower"
     },
     {
-        "iavc": "ffg/9832",
+        "iavd": "ffg/9832",
         "name": "Assassinate"
     },
     {
-        "iavc": "ffg/9841",
+        "iavd": "ffg/9841",
         "name": "Capture the Weary"
     },
     {
-        "iavc": "ffg/9849",
+        "iavd": "ffg/9849",
         "name": "Cripple"
     },
     {
-        "iavc": "ffg/9858",
+        "iavd": "ffg/9858",
         "name": "Dirty Trick"
     },
     {
-        "iavc": "ffg/9875",
+        "iavd": "ffg/9875",
         "name": "Glory of the Kill"
     },
     {
-        "iavc": "ffg/9882",
+        "iavd": "ffg/9882",
         "name": "Heightened Reflexes"
     },
     {
-        "iavc": "ffg/9889",
+        "iavd": "ffg/9889",
         "name": "In the Shadows"
     },
     {
-        "iavc": "ffg/9897",
+        "iavd": "ffg/9897",
         "name": "Merciless"
     },
     {
-        "iavc": "ffg/9911",
+        "iavd": "ffg/9911",
         "name": "Price on Their Heads"
     },
     {
-        "iavc": "ffg/9912",
+        "iavd": "ffg/9912",
         "name": "Primary Target"
     },
     {
-        "iavc": "ffg/9944",
+        "iavd": "ffg/9944",
         "name": "Tools for the Job"
     },
     {
-        "iavc": "ffg/9946",
+        "iavd": "ffg/9946",
         "name": "Toxic Dart"
     },
     {
-        "iavc": "ffg/9954",
+        "iavd": "ffg/9954",
         "name": "Battlefield Awareness"
     },
     {
-        "iavc": "ffg/9984",
+        "iavd": "ffg/9984",
         "name": "Emergency Aid"
     }
 ]
