@@ -122,7 +122,7 @@
     {
         "affiliation": "Rebel",
         "description": "Spec-Ops Commando",
-        "elite": false,
+        "elite": true,
         "iavd": "iacp/23",
         "name": "Fenn Signis",
         "unique": true
@@ -130,7 +130,7 @@
     {
         "affiliation": "Rebel",
         "description": "Unstoppable Warrior",
-        "elite": false,
+        "elite": true,
         "iavd": "iacp/24",
         "name": "Gaarkhan",
         "unique": true
@@ -138,7 +138,7 @@
     {
         "affiliation": "Rebel",
         "description": "Exile Redeemed",
-        "elite": false,
+        "elite": true,
         "iavd": "iacp/25",
         "name": "Diala Passil",
         "unique": true
@@ -146,7 +146,7 @@
     {
         "affiliation": "Rebel",
         "description": "Gunslinging Rogue",
-        "elite": false,
+        "elite": true,
         "iavd": "iacp/27",
         "name": "Jyn Odan",
         "unique": true
@@ -218,7 +218,7 @@
     {
         "affiliation": "Rebel",
         "description": "Fueled by Vengeance",
-        "elite": false,
+        "elite": true,
         "iavd": "iacp/547",
         "name": "Biv Bodhrik",
         "unique": true
@@ -226,7 +226,7 @@
     {
         "affiliation": "Rebel",
         "description": "Underworld Innovator",
-        "elite": false,
+        "elite": true,
         "iavd": "iacp/553",
         "name": "Saska Teft",
         "unique": true
