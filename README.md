@@ -12,14 +12,26 @@ Current dataset supports:
 A deck save file for the Imperial Assault Skirmish module for Vassal is a concatenation of strings. Such a file starts with the string "DECK\t" and follows with a concatenation of multiple strings. Each concatenated string contains a marshalled version of one card. The marshalled version of a card always starts with the "ESC" (ASCII 27) character.
 
 ```
-iavd_header = "_DECK\t"
-iavd_separator = char(27)
-iavd_card_file[i] = iavd_separator + marshalled_card[i]
-deck_save_file = iavd_header + iavd_card_file[1] + ... + iavd_card_file[N]
+header = "_DECK\t"
+separator = char(27)
+card[i] = separator + marshalled_card[i]
+deck_save_file = header + card[1] + ... + card[N]
 ```
 
-iavd-dataset provides a set of files that we will call "Imperial Assault Vassal Deck" (IAVD) files. Each IAVD file contains the marshalled version of one card in the Imperial Assault Skirmish module for Vassal. This is equivalent to what we described in ```iavd_card_file[i]```.
-Users of iavd-dataset can concatenate "DECK\t" header with multiple IAVD files to obtain a well-formed deck save file for the Imperial Assault Skirmish module for Vassal.
+iavd-dataset provides a set of files that we will call "Imperial Assault Vassal Deck" (IAVD) files. Each IAVD file is a deck save file with only one card from the Imperial Assault Skirmish module for Vassal. This is equivalent to:
+
+```iavd_file[i] = header + separator + card[i]```
+
+Users of iavd-dataset can concatenate multiple IAVD files to obtain a well-formed deck save file for the Imperial Assault Skirmish module for Vassal. Following pseudo-code shows how:
+
+```
+header = "DECK\t"
+deck_save_file.write(header)
+for i in cards_in_my_army:
+	card = iavd_file[i].strip(header)
+	deck_save_file.write(card)
+```
+
 IAVD files are available in following folders:
 
 * ```./ffg``` contains cards for Imperial Assault FFG card system
