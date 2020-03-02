@@ -5,7 +5,7 @@ This library contains a dataset that can be used to read and write Imperial Assa
 Current dataset supports:
 
 * Vassal v3.2.17 (http://www.vassalengine.org/)
-* Imperial Assault Skirmish module v12.3.1 (http://www.vassalengine.org/wiki/Module:Star_Wars:_Imperial_Assault)
+* Imperial Assault Skirmish module v12.3.2 (http://www.vassalengine.org/wiki/Module:Star_Wars:_Imperial_Assault)
 * IACP v3.0 (https://ia-continuityproject.com/)
 
 # Deck save file format
@@ -28,8 +28,8 @@ Users of iavd-dataset can concatenate multiple IAVD files to obtain a well-forme
 header = "DECK\t"
 deck_save_file.write(header)
 for i in cards_in_my_army:
-	card = iavd_file[i].strip(header)
-	deck_save_file.write(card)
+  card = iavd_file[i].strip(header)
+  deck_save_file.write(card)
 ```
 
 IAVD files are available in following folders:
@@ -49,7 +49,7 @@ Bundled with this dataset there is a set of JSON files that provides all the met
 
 When reading a deck save file for the Imperial Assault Skirmish module for Vassal, the user can strip off the "DECK\t" header, then look for the "ESC" (ASCII 27) character. Text between consecutive "ESC" (ASCII 27) characters (or between "ESC" (ASCII 27) character and End of File) must match the following regular expression:
 
-```IAVD_REGEX = ".*piece;;;.*?;(.*?)\/.*\\	(-*1)\\.*\\	null;\d*;\d*;(\d*)"```
+```IAVD_REGEX = ".*piece;;;.*?;(.*?)/.*\\	(-*1)\\.*\\	null;\d*;\d*;(\d*)"```
 
 Such regex will match two groups:
 
