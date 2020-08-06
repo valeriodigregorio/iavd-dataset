@@ -112,6 +112,94 @@
         "unique": true
     },
     {
+        "affiliation": "Imperial",
+        "description": "Aspirational Officer",
+        "elite": true,
+        "iavd": "iacp/15360",
+        "name": "Director Krennic",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/15362",
+        "name": "Shoretrooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/15365",
+        "name": "Mortar Trooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/15371",
+        "name": "Overwatch",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavd": "iacp/15377",
+        "name": "Clan of Two",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "To Nurse and Protect",
+        "elite": true,
+        "iavd": "iacp/15383",
+        "name": "IG-11",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Renegade Hunter",
+        "elite": true,
+        "iavd": "iacp/15385",
+        "name": "The Mandalorian",
+        "unique": true
+    },
+    {
+        "affiliation": "Neutral",
+        "description": "Weapon of the Ancients",
+        "elite": true,
+        "iavd": "iacp/15387",
+        "name": "The Darksaber",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/15389",
+        "name": "AT-RT",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Stardust",
+        "elite": true,
+        "iavd": "iacp/15391",
+        "name": "Jyn Erso",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/15397",
+        "name": "Rebel Pathfinder",
+        "unique": false
+    },
+    {
         "affiliation": "Rebel",
         "description": "Hero of the Rebellion",
         "elite": true,
@@ -192,6 +280,14 @@
         "unique": false
     },
     {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/428",
+        "name": "Rebel Saboteur",
+        "unique": false
+    },
+    {
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
@@ -250,18 +346,18 @@
     {
         "affiliation": "Rebel",
         "description": null,
-        "elite": false,
-        "iavd": "iacp/659",
-        "name": "Fury of Kashyyyk",
-        "unique": false
-    },
-    {
-        "affiliation": "Rebel",
-        "description": null,
         "elite": true,
         "iavd": "iacp/661",
         "name": "Wookiee Warrior",
         "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Vicious Tactician",
+        "elite": true,
+        "iavd": "iacp/8223",
+        "name": "General Sorin",
+        "unique": true
     },
     {
         "affiliation": "Imperial",
@@ -296,6 +392,30 @@
         "unique": true
     },
     {
+        "affiliation": "Rebel",
+        "description": "Deadly Marksman",
+        "elite": true,
+        "iavd": "iacp/8250",
+        "name": "Loku Kanoloa",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Student of Battle",
+        "elite": true,
+        "iavd": "iacp/8254",
+        "name": "Verena Talos",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "ISB Interrogator",
+        "elite": true,
+        "iavd": "iacp/8543",
+        "name": "Agent Blaise",
+        "unique": true
+    },
+    {
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
@@ -305,11 +425,27 @@
     },
     {
         "affiliation": "Mercenary",
+        "description": "Born Hunter",
+        "elite": true,
+        "iavd": "iacp/8553",
+        "name": "Bossk",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
         "description": null,
         "elite": true,
         "iavd": "iacp/8563",
         "name": "Wing Guard",
         "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Charming Gambler",
+        "elite": true,
+        "iavd": "iacp/8571",
+        "name": "Lando Calrissian",
+        "unique": true
     },
     {
         "affiliation": "Imperial",
@@ -366,5 +502,13 @@
         "iavd": "iacp/8959",
         "name": "Luke Skywalker",
         "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/95",
+        "name": "E-Web Engineer",
+        "unique": false
     }
 ]

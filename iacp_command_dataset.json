@@ -32,12 +32,28 @@
         "name": "Get Behind Me!"
     },
     {
-        "iavd": "iacp/15358",
+        "iavd": "iacp/15323",
+        "name": "Parry"
+    },
+    {
+        "iavd": "ffg/15358",
         "name": "Iron Will"
     },
     {
-        "iavd": "iacp/15323",
-        "name": "Parry"
+        "iavd": "iacp/15492",
+        "name": "Built on Hope"
+    },
+    {
+        "iavd": "iacp/15493",
+        "name": "Deploy the Garrison!"
+    },
+    {
+        "iavd": "iacp/15494",
+        "name": "Guild Programming"
+    },
+    {
+        "iavd": "iacp/15495",
+        "name": "Whistling Birds"
     },
     {
         "iavd": "iacp/599",

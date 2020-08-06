@@ -5,8 +5,8 @@ This library contains a dataset that can be used to read and write Imperial Assa
 Current dataset supports:
 
 * Vassal v3.2.17 (http://www.vassalengine.org/)
-* Imperial Assault Skirmish module v12.3.4 (http://www.vassalengine.org/wiki/Module:Star_Wars:_Imperial_Assault)
-* IACP v3.2 (https://ia-continuityproject.com/)
+* Imperial Assault Skirmish module v12.4 (http://www.vassalengine.org/wiki/Module:Star_Wars:_Imperial_Assault)
+* IACP v4.0 (https://ia-continuityproject.com/)
 
 # Deck save file format
 A deck save file for the Imperial Assault Skirmish module for Vassal is a concatenation of strings. Such a file starts with the string "DECK\t" and follows with a concatenation of multiple strings. Each concatenated string contains a marshalled version of one card. The marshalled version of a card always starts with the "ESC" (ASCII 27) character.
