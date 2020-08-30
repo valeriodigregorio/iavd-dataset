@@ -5,7 +5,7 @@ This library contains a dataset that can be used to read and write Imperial Assa
 Current dataset supports:
 
 * Vassal v3.2.17 (http://www.vassalengine.org/)
-* Imperial Assault Skirmish module v12.4 (http://www.vassalengine.org/wiki/Module:Star_Wars:_Imperial_Assault)
+* Imperial Assault Skirmish module v12.4.2 (http://www.vassalengine.org/wiki/Module:Star_Wars:_Imperial_Assault)
 * IACP v4.0 (https://ia-continuityproject.com/)
 
 # Deck save file format
