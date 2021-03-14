@@ -597,7 +597,7 @@
         "elite": true,
         "iavd": "iacp/8231",
         "name": "The General's Ranks",
-        "unique": true
+        "unique": false
     },
     {
         "affiliation": "Imperial",
