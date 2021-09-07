@@ -25,8 +25,8 @@
     },
     {
         "affiliation": "Rebel",
-        "description": null,
-        "elite": false,
+        "description": "Rebel Quartermaster",
+        "elite": true,
         "iavd": "iacp/12515",
         "name": "Ko-Tun Feralo",
         "unique": true
@@ -99,7 +99,7 @@
         "affiliation": "Mercenary",
         "description": "Gand Findsman",
         "elite": true,
-        "iavd": "iacp/15263",
+        "iavd": "iacp/15762",
         "name": "Zuckuss",
         "unique": true
     },
@@ -643,8 +643,112 @@
         "affiliation": "Mercenary",
         "description": null,
         "elite": false,
+        "iavd": "iacp/16071",
+        "name": "Clawdite Shapeshifter",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
         "iavd": "iacp/8561",
         "name": "Under Duress",
         "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/16099",
+        "name": "Flametrooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/8227",
+        "name": "Snowtrooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/16093",
+        "name": "Dark Trooper Mk III",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Cunning Majordomo",
+        "elite": true,
+        "iavd": "iacp/16101",
+        "name": "Bib Fortuna",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Ruthless War Criminal",
+        "elite": true,
+        "iavd": "iacp/16095",
+        "name": "Moff Gideon",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/8912",
+        "name": "Dewback Rider",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavd": "iacp/54",
+        "name": "First Strike",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "\"Wildfire\"",
+        "elite": true,
+        "iavd": "iacp/14302",
+        "name": "CT-1701",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Survivor of Burinin Konn",
+        "elite": true,
+        "iavd": "iacp/16103",
+        "name": "Migs Mayfeld",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Rising Phoenix",
+        "elite": true,
+        "iavd": "iacp/16105",
+        "name": "The Mandalorian",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Dropper Veteran",
+        "elite": true,
+        "iavd": "iacp/16108",
+        "name": "Cara Dune",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/16112",
+        "name": "Z-6 Trooper",
+        "unique": false
     }
 ]

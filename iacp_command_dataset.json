@@ -44,7 +44,7 @@
         "name": "Built on Hope"
     },
     {
-        "iavd": "iacp/15493",
+        "iavd": "iacp/16068",
         "name": "Deploy the Garrison!"
     },
     {
@@ -130,5 +130,33 @@
     {
         "iavd": "iacp/15717",
         "name": "Windfall"
+    },
+    {
+        "iavd": "iacp/16117",
+        "name": "Honoring the Fallen"
+    },
+    {
+        "iavd": "iacp/9018",
+        "name": "Expose Weakness"
+    },
+    {
+        "iavd": "iacp/16119",
+        "name": "Palace Politics"
+    },
+    {
+        "iavd": "iacp/10332",
+        "name": "Covering Fire"
+    },
+    {
+        "iavd": "iacp/16116",
+        "name": "Ambush"
+    },
+    {
+        "iavd": "iacp/16118",
+        "name": "Demoralizing Monologue"
+    },
+    {
+        "iavd": "iacp/9832",
+        "name": "Assassinate"
     }
 ]
