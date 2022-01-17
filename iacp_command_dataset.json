@@ -4,6 +4,10 @@
         "name": "On the Lam"
     },
     {
+        "iavd": "iacp/10332",
+        "name": "Covering Fire"
+    },
+    {
         "iavd": "iacp/10687",
         "name": "Knowledge and Defense"
     },
@@ -44,10 +48,6 @@
         "name": "Built on Hope"
     },
     {
-        "iavd": "iacp/16068",
-        "name": "Deploy the Garrison!"
-    },
-    {
         "iavd": "iacp/15494",
         "name": "Guild Programming"
     },
@@ -56,16 +56,28 @@
         "name": "Whistling Birds"
     },
     {
-        "iavd": "iacp/599",
-        "name": "Mandalorian Tactics"
+        "iavd": "iacp/15702",
+        "name": "Apex Predator"
     },
     {
-        "iavd": "iacp/9493",
-        "name": "Deflection"
+        "iavd": "iacp/15703",
+        "name": "Blend In"
     },
     {
-        "iavd": "iacp/9664",
-        "name": "Parry"
+        "iavd": "iacp/15704",
+        "name": "Cavalry Charge"
+    },
+    {
+        "iavd": "iacp/15705",
+        "name": "Definition: 'Love'"
+    },
+    {
+        "iavd": "iacp/15706",
+        "name": "Face Me!"
+    },
+    {
+        "iavd": "iacp/15707",
+        "name": "Feint"
     },
     {
         "iavd": "iacp/15708",
@@ -76,20 +88,8 @@
         "name": "Overwhelming Impact"
     },
     {
-        "iavd": "iacp/15702",
-        "name": "Apex Predator"
-    },
-    {
-        "iavd": "iacp/15707",
-        "name": "Feint"
-    },
-    {
         "iavd": "iacp/15710",
         "name": "Rapid Recalibration"
-    },
-    {
-        "iavd": "iacp/15714",
-        "name": "Rest in Peace"
     },
     {
         "iavd": "iacp/15711",
@@ -104,56 +104,60 @@
         "name": "Reactive Loyalties"
     },
     {
+        "iavd": "iacp/15714",
+        "name": "Rest in Peace"
+    },
+    {
         "iavd": "iacp/15715",
         "name": "Sniper Configuration"
-    },
-    {
-        "iavd": "iacp/15703",
-        "name": "Blend In"
-    },
-    {
-        "iavd": "iacp/15704",
-        "name": "Cavalry Charge"
     },
     {
         "iavd": "iacp/15716",
         "name": "Static Pulse"
     },
     {
-        "iavd": "iacp/15706",
-        "name": "Face Me!"
-    },
-    {
-        "iavd": "iacp/15705",
-        "name": "Definition: 'Love'"
-    },
-    {
         "iavd": "iacp/15717",
         "name": "Windfall"
     },
     {
-        "iavd": "iacp/16117",
-        "name": "Honoring the Fallen"
-    },
-    {
-        "iavd": "iacp/9018",
-        "name": "Expose Weakness"
-    },
-    {
-        "iavd": "iacp/16119",
-        "name": "Palace Politics"
-    },
-    {
-        "iavd": "iacp/10332",
-        "name": "Covering Fire"
+        "iavd": "iacp/16068",
+        "name": "Deploy the Garrison!"
     },
     {
         "iavd": "iacp/16116",
         "name": "Ambush"
     },
     {
+        "iavd": "iacp/16117",
+        "name": "Honoring the Fallen"
+    },
+    {
         "iavd": "iacp/16118",
         "name": "Demoralizing Monologue"
+    },
+    {
+        "iavd": "iacp/16119",
+        "name": "De Wanna Wanga"
+    },
+    {
+        "iavd": "iacp/16135",
+        "name": "Covering Fire"
+    },
+    {
+        "iavd": "iacp/599",
+        "name": "Mandalorian Tactics"
+    },
+    {
+        "iavd": "iacp/9018",
+        "name": "Expose Weakness"
+    },
+    {
+        "iavd": "iacp/9493",
+        "name": "Deflection"
+    },
+    {
+        "iavd": "iacp/9664",
+        "name": "Parry"
     },
     {
         "iavd": "iacp/9832",

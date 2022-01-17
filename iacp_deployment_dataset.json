@@ -40,6 +40,22 @@
         "unique": true
     },
     {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/12757",
+        "name": "Clawdite Shapeshifter",
+        "unique": false
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/14302",
+        "name": "CT-1701",
+        "unique": true
+    },
+    {
         "affiliation": "Rebel",
         "description": "Spectre-1",
         "elite": true,
@@ -93,14 +109,6 @@
         "elite": true,
         "iavd": "iacp/15261",
         "name": "4-LOM",
-        "unique": true
-    },
-    {
-        "affiliation": "Mercenary",
-        "description": "Gand Findsman",
-        "elite": true,
-        "iavd": "iacp/15762",
-        "name": "Zuckuss",
         "unique": true
     },
     {
@@ -197,6 +205,142 @@
         "elite": true,
         "iavd": "iacp/15397",
         "name": "Rebel Pathfinder",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Tenacious Investigator",
+        "elite": true,
+        "iavd": "iacp/15752",
+        "name": "Agent Kallus",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Inferno Commander",
+        "elite": true,
+        "iavd": "iacp/15754",
+        "name": "Iden Versio",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Rogue Archaeologist",
+        "elite": true,
+        "iavd": "iacp/15758",
+        "name": "Doctor Aphra",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Faithful Meatbag Exterminator",
+        "elite": true,
+        "iavd": "iacp/15760",
+        "name": "HK-47",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Gand Findsman",
+        "elite": true,
+        "iavd": "iacp/15762",
+        "name": "Zuckuss",
+        "unique": true
+    },
+    {
+        "affiliation": "Neutral",
+        "description": "Lost Legend",
+        "elite": true,
+        "iavd": "iacp/15764",
+        "name": "Mara Jade",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Ruthless Agent",
+        "elite": true,
+        "iavd": "iacp/15767",
+        "name": "Cassian Andor",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Rogue Security Droid",
+        "elite": true,
+        "iavd": "iacp/15769",
+        "name": "K-2S0",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavd": "iacp/16071",
+        "name": "Clawdite Shapeshifter",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/16093",
+        "name": "Dark Trooper Mk III",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Ruthless War Criminal",
+        "elite": true,
+        "iavd": "iacp/16095",
+        "name": "Moff Gideon",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/16099",
+        "name": "Flametrooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Cunning Majordomo",
+        "elite": true,
+        "iavd": "iacp/16101",
+        "name": "Bib Fortuna",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Survivor of Burinin Konn",
+        "elite": true,
+        "iavd": "iacp/16103",
+        "name": "Migs Mayfeld",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": "Rising Phoenix",
+        "elite": true,
+        "iavd": "iacp/16105",
+        "name": "The Mandalorian",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Dropper Veteran",
+        "elite": true,
+        "iavd": "iacp/16108",
+        "name": "Cara Dune",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/16112",
+        "name": "Z-6 Trooper",
         "unique": false
     },
     {
@@ -312,6 +456,14 @@
         "unique": false
     },
     {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": false,
+        "iavd": "iacp/54",
+        "name": "First Strike",
+        "unique": true
+    },
+    {
         "affiliation": "Rebel",
         "description": "Fueled by Vengeance",
         "elite": true,
@@ -337,10 +489,26 @@
     },
     {
         "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/566",
+        "name": "Heavy Stormtrooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
         "description": "Trooper Commander",
         "elite": true,
         "iavd": "iacp/570",
         "name": "Kayn Somos",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": null,
+        "elite": false,
+        "iavd": "iacp/659",
+        "name": "Fury of Kashyyyk",
         "unique": true
     },
     {
@@ -363,8 +531,24 @@
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
+        "iavd": "iacp/8227",
+        "name": "Snowtrooper",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
         "iavd": "iacp/8229",
         "name": "SC2-M Repulsor Tank",
+        "unique": false
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/8231",
+        "name": "The General's Ranks",
         "unique": false
     },
     {
@@ -374,6 +558,14 @@
         "iavd": "iacp/8232",
         "name": "Dengar",
         "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/8238",
+        "name": "Wampa",
+        "unique": false
     },
     {
         "affiliation": "Rebel",
@@ -434,6 +626,14 @@
     {
         "affiliation": "Mercenary",
         "description": null,
+        "elite": false,
+        "iavd": "iacp/8561",
+        "name": "Under Duress",
+        "unique": true
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
         "elite": true,
         "iavd": "iacp/8563",
         "name": "Wing Guard",
@@ -441,10 +641,26 @@
     },
     {
         "affiliation": "Rebel",
+        "description": "Codename: \"Hawkbat\"",
+        "elite": true,
+        "iavd": "iacp/8567",
+        "name": "Davith Elso",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
         "description": "Charming Gambler",
         "elite": true,
         "iavd": "iacp/8571",
         "name": "Lando Calrissian",
+        "unique": true
+    },
+    {
+        "affiliation": "Rebel",
+        "description": "Deceptive Diplomat",
+        "elite": true,
+        "iavd": "iacp/8573",
+        "name": "Murne Rin",
         "unique": true
     },
     {
@@ -470,6 +686,22 @@
         "iavd": "iacp/8757",
         "name": "Obi-Wan Kenobi",
         "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": "Wasteland Enforcer",
+        "elite": true,
+        "iavd": "iacp/8910",
+        "name": "Captain Terro",
+        "unique": true
+    },
+    {
+        "affiliation": "Imperial",
+        "description": null,
+        "elite": true,
+        "iavd": "iacp/8912",
+        "name": "Dewback Rider",
+        "unique": false
     },
     {
         "affiliation": "Mercenary",
@@ -509,246 +741,6 @@
         "elite": true,
         "iavd": "iacp/95",
         "name": "E-Web Engineer",
-        "unique": false
-    },
-    {
-        "affiliation": "Neutral",
-        "description": "Lost Legend",
-        "elite": true,
-        "iavd": "iacp/15764",
-        "name": "Mara Jade",
-        "unique": true
-    },
-    {
-        "affiliation": "Rebel",
-        "description": "Ruthless Agent",
-        "elite": true,
-        "iavd": "iacp/15767",
-        "name": "Cassian Andor",
-        "unique": true
-    },
-    {
-        "affiliation": "Rebel",
-        "description": "Rogue Security Droid",
-        "elite": true,
-        "iavd": "iacp/15769",
-        "name": "K-2S0",
-        "unique": true
-    },
-    {
-        "affiliation": "Rebel",
-        "description": "Codename: \"Hawkbat\"",
-        "elite": true,
-        "iavd": "iacp/8567",
-        "name": "Davith Elso",
-        "unique": true
-    },
-    {
-        "affiliation": "Rebel",
-        "description": "Deceptive Diplomat",
-        "elite": true,
-        "iavd": "iacp/8573",
-        "name": "Murne Rin",
-        "unique": true
-    },
-    {
-        "affiliation": "Rebel",
-        "description": null,
-        "elite": false,
-        "iavd": "iacp/659",
-        "name": "Fury of Kashyyyk",
-        "unique": true
-    },
-    {
-        "affiliation": "Imperial",
-        "description": "Wasteland Enforcer",
-        "elite": true,
-        "iavd": "iacp/8910",
-        "name": "Captain Terro",
-        "unique": true
-    },
-    {
-        "affiliation": "Imperial",
-        "description": null,
-        "elite": true,
-        "iavd": "iacp/566",
-        "name": "Heavy Stormtrooper",
-        "unique": false
-    },
-    {
-        "affiliation": "Imperial",
-        "description": "Inferno Commander",
-        "elite": true,
-        "iavd": "iacp/15754",
-        "name": "Iden Versio",
-        "unique": true
-    },
-    {
-        "affiliation": "Imperial",
-        "description": "Tenacious Investigator",
-        "elite": true,
-        "iavd": "iacp/15752",
-        "name": "Agent Kallus",
-        "unique": true
-    },
-    {
-        "affiliation": "Imperial",
-        "description": null,
-        "elite": true,
-        "iavd": "iacp/8231",
-        "name": "The General's Ranks",
-        "unique": false
-    },
-    {
-        "affiliation": "Imperial",
-        "description": null,
-        "elite": true,
-        "iavd": "iacp/37",
-        "name": "AT-ST",
-        "unique": false
-    },
-    {
-        "affiliation": "Mercenary",
-        "description": null,
-        "elite": true,
-        "iavd": "iacp/8238",
-        "name": "Wampa",
-        "unique": false
-    },
-    {
-        "affiliation": "Mercenary",
-        "description": "Faithful Meatbag Exterminator",
-        "elite": true,
-        "iavd": "iacp/15760",
-        "name": "HK-47",
-        "unique": true
-    },
-    {
-        "affiliation": "Mercenary",
-        "description": "Rogue Archaeologist",
-        "elite": true,
-        "iavd": "iacp/15758",
-        "name": "Doctor Aphra",
-        "unique": true
-    },
-    {
-        "affiliation": "Mercenary",
-        "description": null,
-        "elite": true,
-        "iavd": "iacp/12757",
-        "name": "Clawdite Shapeshifter",
-        "unique": false
-    },
-    {
-        "affiliation": "Mercenary",
-        "description": null,
-        "elite": false,
-        "iavd": "iacp/16071",
-        "name": "Clawdite Shapeshifter",
-        "unique": false
-    },
-    {
-        "affiliation": "Mercenary",
-        "description": null,
-        "elite": false,
-        "iavd": "iacp/8561",
-        "name": "Under Duress",
-        "unique": true
-    },
-    {
-        "affiliation": "Imperial",
-        "description": null,
-        "elite": true,
-        "iavd": "iacp/16099",
-        "name": "Flametrooper",
-        "unique": false
-    },
-    {
-        "affiliation": "Imperial",
-        "description": null,
-        "elite": true,
-        "iavd": "iacp/8227",
-        "name": "Snowtrooper",
-        "unique": false
-    },
-    {
-        "affiliation": "Imperial",
-        "description": null,
-        "elite": true,
-        "iavd": "iacp/16093",
-        "name": "Dark Trooper Mk III",
-        "unique": false
-    },
-    {
-        "affiliation": "Mercenary",
-        "description": "Cunning Majordomo",
-        "elite": true,
-        "iavd": "iacp/16101",
-        "name": "Bib Fortuna",
-        "unique": true
-    },
-    {
-        "affiliation": "Imperial",
-        "description": "Ruthless War Criminal",
-        "elite": true,
-        "iavd": "iacp/16095",
-        "name": "Moff Gideon",
-        "unique": true
-    },
-    {
-        "affiliation": "Imperial",
-        "description": null,
-        "elite": true,
-        "iavd": "iacp/8912",
-        "name": "Dewback Rider",
-        "unique": false
-    },
-    {
-        "affiliation": "Mercenary",
-        "description": null,
-        "elite": false,
-        "iavd": "iacp/54",
-        "name": "First Strike",
-        "unique": true
-    },
-    {
-        "affiliation": "Rebel",
-        "description": "\"Wildfire\"",
-        "elite": true,
-        "iavd": "iacp/14302",
-        "name": "CT-1701",
-        "unique": true
-    },
-    {
-        "affiliation": "Mercenary",
-        "description": "Survivor of Burinin Konn",
-        "elite": true,
-        "iavd": "iacp/16103",
-        "name": "Migs Mayfeld",
-        "unique": true
-    },
-    {
-        "affiliation": "Mercenary",
-        "description": "Rising Phoenix",
-        "elite": true,
-        "iavd": "iacp/16105",
-        "name": "The Mandalorian",
-        "unique": true
-    },
-    {
-        "affiliation": "Rebel",
-        "description": "Dropper Veteran",
-        "elite": true,
-        "iavd": "iacp/16108",
-        "name": "Cara Dune",
-        "unique": true
-    },
-    {
-        "affiliation": "Rebel",
-        "description": null,
-        "elite": true,
-        "iavd": "iacp/16112",
-        "name": "Z-6 Trooper",
         "unique": false
     }
 ]

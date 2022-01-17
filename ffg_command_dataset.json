@@ -57,7 +57,7 @@
     },
     {
         "iavd": "ffg/10174",
-        "name": "Smugglers Tricks"
+        "name": "Smuggler's Tricks"
     },
     {
         "iavd": "ffg/10178",
@@ -473,7 +473,7 @@
     },
     {
         "iavd": "ffg/14439",
-        "name": "Karabast"
+        "name": "Karabast!"
     },
     {
         "iavd": "ffg/14463",
@@ -505,7 +505,7 @@
     },
     {
         "iavd": "ffg/14691",
-        "name": "Lets Make a Deal"
+        "name": "Let's Make a Deal"
     },
     {
         "iavd": "ffg/14698",
@@ -518,6 +518,10 @@
     {
         "iavd": "ffg/15323",
         "name": "Parry"
+    },
+    {
+        "iavd": "ffg/16135",
+        "name": "Covering Fire"
     },
     {
         "iavd": "ffg/198",
@@ -694,10 +698,6 @@
     {
         "iavd": "ffg/8999",
         "name": "Comm Disruption"
-    },
-    {
-        "iavd": "ffg/9001",
-        "name": "Covering Fire"
     },
     {
         "iavd": "ffg/9003",

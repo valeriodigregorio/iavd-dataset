@@ -192,14 +192,6 @@
         "unique": true
     },
     {
-        "affiliation": "Mercenary",
-        "description": null,
-        "elite": true,
-        "iavd": "ffg/12757",
-        "name": "Clawdite Shapeshifter",
-        "unique": false
-    },
-    {
         "affiliation": "Imperial",
         "description": null,
         "elite": true,
@@ -274,7 +266,7 @@
     {
         "affiliation": "Rebel",
         "description": "Spectre-4",
-        "elite": false,
+        "elite": true,
         "iavd": "ffg/14406",
         "name": "Zeb Orrelios",
         "unique": true
@@ -341,6 +333,14 @@
         "elite": true,
         "iavd": "ffg/15252",
         "name": "Tusken Raider",
+        "unique": false
+    },
+    {
+        "affiliation": "Mercenary",
+        "description": null,
+        "elite": true,
+        "iavd": "ffg/15774",
+        "name": "Clawdite Shapeshifter",
         "unique": false
     },
     {
